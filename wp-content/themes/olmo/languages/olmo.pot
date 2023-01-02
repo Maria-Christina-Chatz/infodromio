@@ -1,0 +1,3193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-05-12 11:20+0600\n"
+"PO-Revision-Date: 2022-05-12 11:20+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x;__;_x;_e\n"
+"X-Poedit-SearchPath-0: admin\n"
+"X-Poedit-SearchPath-1: footer\n"
+"X-Poedit-SearchPath-2: header\n"
+"X-Poedit-SearchPath-3: include\n"
+"X-Poedit-SearchPath-4: layout\n"
+"X-Poedit-SearchPath-5: library\n"
+"X-Poedit-SearchPath-6: page-templates\n"
+"X-Poedit-SearchPath-7: woocommerce\n"
+"X-Poedit-SearchPath-8: 404.php\n"
+"X-Poedit-SearchPath-9: archive.php\n"
+"X-Poedit-SearchPath-10: archive-portfolio.php\n"
+"X-Poedit-SearchPath-11: author-bio.php\n"
+"X-Poedit-SearchPath-12: category.php\n"
+"X-Poedit-SearchPath-13: comments.php\n"
+"X-Poedit-SearchPath-14: content.php\n"
+"X-Poedit-SearchPath-15: content-audio.php\n"
+"X-Poedit-SearchPath-16: content-gallery.php\n"
+"X-Poedit-SearchPath-17: content-none.php\n"
+"X-Poedit-SearchPath-18: content-page.php\n"
+"X-Poedit-SearchPath-19: content-portfolio.php\n"
+"X-Poedit-SearchPath-20: content-quote.php\n"
+"X-Poedit-SearchPath-21: content-sticky.php\n"
+"X-Poedit-SearchPath-22: content-video.php\n"
+"X-Poedit-SearchPath-23: footer.php\n"
+"X-Poedit-SearchPath-24: functions.php\n"
+"X-Poedit-SearchPath-25: header.php\n"
+"X-Poedit-SearchPath-26: index.php\n"
+"X-Poedit-SearchPath-27: page.php\n"
+"X-Poedit-SearchPath-28: search.php\n"
+"X-Poedit-SearchPath-29: sidebar.php\n"
+"X-Poedit-SearchPath-30: single.php\n"
+"X-Poedit-SearchPath-31: single-portfolio.php\n"
+"X-Poedit-SearchPath-32: tag.php\n"
+"X-Poedit-SearchPath-33: woocommerce.php\n"
+
+#: 404.php:23
+msgid "404"
+msgstr ""
+
+#: 404.php:24
+msgid "Oh no! Page Not Found"
+msgstr ""
+
+#: 404.php:25
+msgid ""
+"It looks like nothing was found at this location. Please click below link or "
+"click on site logo to return home page."
+msgstr ""
+
+#: 404.php:26
+msgid "Back to home"
+msgstr ""
+
+#: 404.php:26
+msgid "Back to Home"
+msgstr ""
+
+#: admin/demo-import.php:15
+msgid "Home 1 to 23"
+msgstr ""
+
+#: admin/demo-import.php:20
+msgid ""
+"Please wait when importing the demo, it may take 5-10 minutes depending on "
+"your server configuration and internet speed."
+msgstr ""
+
+#: admin/functions.php:147 admin/functions.php:178
+#: include/elements/partner.php:71 include/elements/team.php:108
+#: include/elements/video-popup.php:69
+msgid "Link"
+msgstr ""
+
+#: admin/functions.php:161 admin/functions.php:192
+msgid "Icon Class"
+msgstr ""
+
+#: admin/functions.php:162 admin/functions.php:193
+msgid "Ex: fa-facebook-f"
+msgstr ""
+
+#: admin/functions.php:209 admin/theme-options/sidebar.php:21
+#: include/custom-menu/edit_custom_walker.php:263
+#: include/elements/contact-box.php:81 include/elements/contact-box.php:237
+#: include/elements/listicon.php:76 include/elements/listicon.php:487
+#: include/elements/pricing-tab.php:431 include/elements/pricing.php:129
+#: include/elements/pricing.php:505 include/elements/services-box.php:94
+#: include/elements/services-box.php:539 include/elements/slider.php:312
+#: include/elements/testmonials.php:61 include/elements/testmonials.php:456
+#: include/elements/title.php:91 include/elements/title.php:334
+msgid "Description"
+msgstr ""
+
+#: admin/functions.php:210 admin/theme-options/sidebar.php:22
+msgid "(optional)"
+msgstr ""
+
+#: admin/functions.php:226 include/elements/counter.php:84
+#: include/elements/counter.php:308 include/elements/pricing-tab.php:473
+#: include/elements/pricing.php:143 include/elements/pricing.php:547
+msgid "Number"
+msgstr ""
+
+#: admin/functions.php:227
+msgid "Type number"
+msgstr ""
+
+#: admin/functions.php:240
+msgid "Featured text"
+msgstr ""
+
+#: admin/functions.php:241
+msgid "Type featured text"
+msgstr ""
+
+#: admin/functions.php:254
+msgid "Set Icon"
+msgstr ""
+
+#: admin/functions.php:255
+msgid "Paste a icon class here"
+msgstr ""
+
+#: admin/page-settings.php:12
+msgid "olmo Page Settings"
+msgstr ""
+
+#: admin/page-settings.php:20
+msgid "Header Settings"
+msgstr ""
+
+#: admin/page-settings.php:26
+msgid "Select Menu(work only for onepage template)"
+msgstr ""
+
+#: admin/page-settings.php:41
+msgid "Overwrite Header Style"
+msgstr ""
+
+#: admin/page-settings.php:52 admin/theme-options/header.php:28
+msgid "Header Style"
+msgstr ""
+
+#: admin/page-settings.php:53 admin/theme-options/header.php:29
+msgid "Select header style"
+msgstr ""
+
+#: admin/page-settings.php:66 admin/page-settings.php:105
+#: admin/page-settings.php:338 admin/theme-options/footer.php:21
+#: admin/theme-options/header.php:43 admin/theme-options/header.php:72
+#: admin/theme-options/team.php:66 include/elements/counter.php:50
+#: include/elements/services-box.php:50 include/elements/services.php:49
+#: include/elements/teams.php:49 include/elements/testmonials.php:50
+#: include/elements/title.php:50 include/elements/video-popup.php:50
+msgid "Style 1"
+msgstr ""
+
+#: admin/page-settings.php:70 admin/page-settings.php:109
+#: admin/page-settings.php:342 admin/theme-options/footer.php:25
+#: admin/theme-options/header.php:47 admin/theme-options/header.php:76
+#: admin/theme-options/team.php:70 include/elements/counter.php:51
+#: include/elements/services-box.php:51 include/elements/services.php:50
+#: include/elements/teams.php:50 include/elements/testmonials.php:51
+#: include/elements/title.php:51 include/elements/video-popup.php:51
+msgid "Style 2"
+msgstr ""
+
+#: admin/page-settings.php:74 admin/theme-options/header.php:51
+msgid "Style 3"
+msgstr ""
+
+#: admin/page-settings.php:80
+msgid "Overwrite Banner Style"
+msgstr ""
+
+#: admin/page-settings.php:91 admin/theme-options/header.php:57
+msgid "Banner Style"
+msgstr ""
+
+#: admin/page-settings.php:92 admin/theme-options/header.php:58
+msgid "Select banner style"
+msgstr ""
+
+#: admin/page-settings.php:115
+msgid "Show Header Topbar"
+msgstr ""
+
+#: admin/page-settings.php:126
+msgid "Custom Title"
+msgstr ""
+
+#: admin/page-settings.php:137 include/elements/contact-box.php:71
+#: include/elements/counter.php:106 include/elements/counter.php:409
+#: include/elements/feature-lists.php:48 include/elements/listicon.php:66
+#: include/elements/listicon.php:397 include/elements/partner.php:48
+#: include/elements/percent-box.php:46 include/elements/portfolio-meta.php:45
+#: include/elements/portfolio-meta.php:119 include/elements/portfolios.php:86
+#: include/elements/portfolios.php:105 include/elements/posts.php:86
+#: include/elements/posts.php:129 include/elements/pricing-tab.php:99
+#: include/elements/pricing-tab.php:190 include/elements/pricing.php:58
+#: include/elements/pricing.php:69 include/elements/pricing.php:262
+#: include/elements/services-box.php:59 include/elements/services-box.php:461
+#: include/elements/services.php:115 include/elements/services.php:159
+#: include/elements/slider.php:180 include/elements/taxonomy-list.php:45
+#: include/elements/team-meta.php:45 include/elements/team-meta.php:132
+#: include/elements/team.php:206 include/elements/teams.php:103
+#: include/elements/teams.php:147 include/elements/testmonials.php:92
+#: include/elements/testmonials.php:148 include/elements/title.php:21
+#: include/elements/title.php:59 include/elements/title.php:144
+#: include/elements/video-popup.php:59
+msgid "Title"
+msgstr ""
+
+#: admin/page-settings.php:148 include/elements/title.php:69
+#: include/elements/title.php:221
+msgid "Sub Title"
+msgstr ""
+
+#: admin/page-settings.php:160
+msgid "Layout Settings"
+msgstr ""
+
+#: admin/page-settings.php:166
+msgid "Default Layout"
+msgstr ""
+
+#: admin/page-settings.php:180
+msgid "Full Width"
+msgstr ""
+
+#: admin/page-settings.php:185
+msgid "With Left Sidebar"
+msgstr ""
+
+#: admin/page-settings.php:190
+msgid "With Right sidebar"
+msgstr ""
+
+#: admin/page-settings.php:197
+msgid "Select Sidebar"
+msgstr ""
+
+#: admin/page-settings.php:208 admin/theme-options/blog.php:128
+#: admin/theme-options/portfolio.php:160 admin/theme-options/team.php:76
+#: admin/theme-options/woocommerce.php:220
+msgid "Header Banner Type"
+msgstr ""
+
+#: admin/page-settings.php:209 admin/theme-options/blog.php:129
+#: admin/theme-options/portfolio.php:161 admin/theme-options/team.php:77
+#: admin/theme-options/woocommerce.php:221
+msgid "Select your header banner type"
+msgstr ""
+
+#: admin/page-settings.php:223 admin/theme-options/blog.php:143
+#: admin/theme-options/portfolio.php:175 admin/theme-options/team.php:91
+#: admin/theme-options/woocommerce.php:235 include/elements/gallery.php:118
+#: include/elements/slider.php:287 include/elements/testmonials.php:354
+msgid "Background Color"
+msgstr ""
+
+#: admin/page-settings.php:227 admin/page-settings.php:245
+#: admin/theme-options/blog.php:165 admin/theme-options/portfolio.php:197
+#: admin/theme-options/team.php:113 admin/theme-options/woocommerce.php:257
+msgid "Background Image"
+msgstr ""
+
+#: admin/page-settings.php:233 admin/theme-options/blog.php:153
+#: admin/theme-options/portfolio.php:185 admin/theme-options/team.php:101
+#: admin/theme-options/woocommerce.php:245
+msgid "Select Color"
+msgstr ""
+
+#: admin/page-settings.php:246 admin/theme-options/blog.php:166
+#: admin/theme-options/portfolio.php:198 admin/theme-options/team.php:114
+#: admin/theme-options/woocommerce.php:258
+msgid "Background image"
+msgstr ""
+
+#: admin/page-settings.php:260
+msgid "Breadcrumb BG Color"
+msgstr ""
+
+#: admin/page-settings.php:272
+msgid "Main Content Padding"
+msgstr ""
+
+#: admin/page-settings.php:273
+msgid "Main content padding"
+msgstr ""
+
+#: admin/page-settings.php:286
+msgid "Main Content No Padding"
+msgstr ""
+
+#: admin/page-settings.php:290
+msgid "Main Content With Padding"
+msgstr ""
+
+#: admin/page-settings.php:296
+msgid "Content Background"
+msgstr ""
+
+#: admin/page-settings.php:307
+msgid "Footer Settings"
+msgstr ""
+
+#: admin/page-settings.php:313
+msgid "Overwrite Footer Style"
+msgstr ""
+
+#: admin/page-settings.php:324 admin/theme-options/footer.php:6
+msgid "Footer Style"
+msgstr ""
+
+#: admin/page-settings.php:325 admin/theme-options/footer.php:7
+msgid "Select footer style"
+msgstr ""
+
+#: admin/page-settings.php:348
+msgid "Overwrite Footer Top Widget"
+msgstr ""
+
+#: admin/page-settings.php:359
+msgid "Select Preset Color"
+msgstr ""
+
+#: admin/post-settings.php:12
+msgid "Olmo Post Settings"
+msgstr ""
+
+#: admin/post-settings.php:20
+msgid "Content Settings"
+msgstr ""
+
+#: admin/post-settings.php:26 include/elements/slider.php:102
+msgid "Video Link"
+msgstr ""
+
+#: admin/post-settings.php:27
+msgid "Only Work for post formate video"
+msgstr ""
+
+#: admin/post-settings.php:36
+msgid "Audio Link"
+msgstr ""
+
+#: admin/post-settings.php:37
+msgid "Only Work for post formate audio"
+msgstr ""
+
+#: admin/post-settings.php:46 include/elements/gallery.php:21
+#: include/elements/gallery.php:50
+msgid "Gallery"
+msgstr ""
+
+#: admin/post-settings.php:47
+msgid "Only Work for post formate gallery"
+msgstr ""
+
+#: admin/post-settings.php:56
+msgid "Quote"
+msgstr ""
+
+#: admin/post-settings.php:57 admin/post-settings.php:67
+#: admin/post-settings.php:77
+msgid "Only Work for post formate quote"
+msgstr ""
+
+#: admin/post-settings.php:66
+msgid "Quote URL"
+msgstr ""
+
+#: admin/post-settings.php:76
+msgid "Quote Cite"
+msgstr ""
+
+#: admin/theme-options.php:63
+msgid "General Options"
+msgstr ""
+
+#: admin/theme-options.php:67
+msgid "Background Options"
+msgstr ""
+
+#: admin/theme-options.php:71
+msgid "Header Options"
+msgstr ""
+
+#: admin/theme-options.php:75
+msgid "Footer Options"
+msgstr ""
+
+#: admin/theme-options.php:79
+msgid "Sidebar Options"
+msgstr ""
+
+#: admin/theme-options.php:83
+msgid "Blog Options"
+msgstr ""
+
+#: admin/theme-options.php:87
+msgid "Team Options"
+msgstr ""
+
+#: admin/theme-options.php:91
+msgid "Portfolio Options"
+msgstr ""
+
+#: admin/theme-options.php:95
+msgid "WooCommerce Options"
+msgstr ""
+
+#: admin/theme-options.php:99
+msgid "Typography Options"
+msgstr ""
+
+#: admin/theme-options.php:103
+msgid "Styling Options"
+msgstr ""
+
+#: admin/theme-options/background.php:6 admin/theme-options/background.php:7
+msgid "Background Layout"
+msgstr ""
+
+#: admin/theme-options/background.php:21
+msgid "Wide"
+msgstr ""
+
+#: admin/theme-options/background.php:25
+msgid "Boxed"
+msgstr ""
+
+#: admin/theme-options/background.php:31
+msgid "Boxed Background Image"
+msgstr ""
+
+#: admin/theme-options/background.php:32
+msgid "Boxed background image"
+msgstr ""
+
+#: admin/theme-options/background.php:46
+msgid "Body background"
+msgstr ""
+
+#: admin/theme-options/background.php:47 admin/theme-options/background.php:67
+msgid "Background can be image or color"
+msgstr ""
+
+#: admin/theme-options/background.php:66
+msgid "Main container background"
+msgstr ""
+
+#: admin/theme-options/background.php:86
+msgid "Header background"
+msgstr ""
+
+#: admin/theme-options/background.php:87
+msgid "Header Background"
+msgstr ""
+
+#: admin/theme-options/background.php:106
+msgid "Sidebar background"
+msgstr ""
+
+#: admin/theme-options/background.php:107
+msgid "Sidebar Background"
+msgstr ""
+
+#: admin/theme-options/background.php:126
+#: admin/theme-options/background.php:127
+msgid "Footer Widget background"
+msgstr ""
+
+#: admin/theme-options/background.php:146
+#: admin/theme-options/background.php:147
+msgid "Footer Copyright background"
+msgstr ""
+
+#: admin/theme-options/blog.php:6
+msgid "Show Blog Content"
+msgstr ""
+
+#: admin/theme-options/blog.php:21
+msgid "Blog Header Title"
+msgstr ""
+
+#: admin/theme-options/blog.php:22
+msgid "Blog page header title"
+msgstr ""
+
+#: admin/theme-options/blog.php:36
+msgid "Blog Header Sub-Title"
+msgstr ""
+
+#: admin/theme-options/blog.php:37
+msgid "Blog page header sub-title"
+msgstr ""
+
+#: admin/theme-options/blog.php:51
+msgid "Blog layout"
+msgstr ""
+
+#: admin/theme-options/blog.php:52
+msgid "Blog layout for blog page"
+msgstr ""
+
+#: admin/theme-options/blog.php:66 admin/theme-options/portfolio.php:51
+#: admin/theme-options/portfolio.php:128
+#: admin/theme-options/woocommerce.php:141
+#: admin/theme-options/woocommerce.php:188
+msgid "Full width"
+msgstr ""
+
+#: admin/theme-options/blog.php:71 admin/theme-options/portfolio.php:56
+#: admin/theme-options/portfolio.php:133
+#: admin/theme-options/woocommerce.php:146
+#: admin/theme-options/woocommerce.php:193
+msgid "Left sidebar"
+msgstr ""
+
+#: admin/theme-options/blog.php:76 admin/theme-options/portfolio.php:61
+#: admin/theme-options/portfolio.php:138
+#: admin/theme-options/woocommerce.php:151
+#: admin/theme-options/woocommerce.php:198
+msgid "Right sidebar"
+msgstr ""
+
+#: admin/theme-options/blog.php:83
+msgid "Blog Sidebar"
+msgstr ""
+
+#: admin/theme-options/blog.php:84
+msgid "Select your blog sidebar"
+msgstr ""
+
+#: admin/theme-options/blog.php:98
+msgid "Blog Single Header Title"
+msgstr ""
+
+#: admin/theme-options/blog.php:99
+msgid "Blog single header title"
+msgstr ""
+
+#: admin/theme-options/blog.php:113
+msgid "Blog Single Header Sub-Title"
+msgstr ""
+
+#: admin/theme-options/blog.php:114
+msgid "Blog single header sub-title"
+msgstr ""
+
+#: admin/theme-options/blog.php:147 admin/theme-options/portfolio.php:179
+#: admin/theme-options/team.php:95 admin/theme-options/woocommerce.php:239
+msgid "Custom Image"
+msgstr ""
+
+#: admin/theme-options/blog.php:180 admin/theme-options/blog.php:181
+msgid "Sticky post text"
+msgstr ""
+
+#: admin/theme-options/blog.php:195 admin/theme-options/blog.php:196
+msgid "Excerpt Length"
+msgstr ""
+
+#: admin/theme-options/blog.php:210
+msgid "Display Social Sharing Icons"
+msgstr ""
+
+#: admin/theme-options/blog.php:225
+msgid "Post thumb in Single Post"
+msgstr ""
+
+#: admin/theme-options/blog.php:240
+msgid "Display Next/Previous Posts in Single Post"
+msgstr ""
+
+#: admin/theme-options/blog.php:255
+msgid "Display \"Latest Article\" text in Blog"
+msgstr ""
+
+#: admin/theme-options/blog.php:270
+msgid "Blog Text Title"
+msgstr ""
+
+#: admin/theme-options/blog.php:271
+msgid "Blog \"latest article\" text"
+msgstr ""
+
+#: admin/theme-options/blog.php:285
+msgid "Show Blog Comment"
+msgstr ""
+
+#: admin/theme-options/footer.php:31 admin/widgets.php:59
+msgid "Footer Widget Top Area"
+msgstr ""
+
+#: admin/theme-options/footer.php:46
+msgid "Footer Widget Area"
+msgstr ""
+
+#: admin/theme-options/footer.php:61
+msgid "Footer Widget Box"
+msgstr ""
+
+#: admin/theme-options/footer.php:76
+msgid "Footer Widget Column Serial"
+msgstr ""
+
+#: admin/theme-options/footer.php:77
+msgid "Write column number seperate by comma"
+msgstr ""
+
+#: admin/theme-options/footer.php:91
+msgid "Copyright Text"
+msgstr ""
+
+#: admin/theme-options/footer.php:93 footer.php:64
+#, php-format
+msgid "%1$s &copy; Copyright, Olmo. All rights reserved."
+msgstr ""
+
+#: admin/theme-options/general.php:7
+msgid "Header Logo"
+msgstr ""
+
+#: admin/theme-options/general.php:8
+msgid "Header logo"
+msgstr ""
+
+#: admin/theme-options/general.php:22
+msgid "Footer Widget Logo"
+msgstr ""
+
+#: admin/theme-options/general.php:37
+msgid "Footer Logo"
+msgstr ""
+
+#: admin/theme-options/general.php:38
+msgid "Footer logo"
+msgstr ""
+
+#: admin/theme-options/general.php:52
+msgid "Responsive Logo"
+msgstr ""
+
+#: admin/theme-options/general.php:53
+msgid "Logo for responsive devices( mobile, tab etc )"
+msgstr ""
+
+#: admin/theme-options/general.php:67
+msgid "Display Preloader"
+msgstr ""
+
+#: admin/theme-options/header.php:5 include/elements/team.php:88
+#: include/elements/team.php:128
+msgid "Facebook"
+msgstr ""
+
+#: admin/theme-options/header.php:10
+msgid "Twitter"
+msgstr ""
+
+#: admin/theme-options/header.php:15
+msgid "Behance"
+msgstr ""
+
+#: admin/theme-options/header.php:20
+msgid "Youtube"
+msgstr ""
+
+#: admin/theme-options/header.php:82
+msgid "Display Breadcrumbs"
+msgstr ""
+
+#: admin/theme-options/header.php:97
+msgid "Breadcrumb Prefix"
+msgstr ""
+
+#: admin/theme-options/header.php:98
+msgid "Breadcrumb prefix"
+msgstr ""
+
+#: admin/theme-options/header.php:112 admin/theme-options/header.php:113
+msgid "Header Button"
+msgstr ""
+
+#: admin/theme-options/header.php:127 admin/theme-options/header.php:128
+msgid "Header Button Link"
+msgstr ""
+
+#: admin/theme-options/header.php:141
+msgid "Call to Action Text"
+msgstr ""
+
+#: admin/theme-options/header.php:142
+msgid "Call to action text"
+msgstr ""
+
+#: admin/theme-options/header.php:156
+msgid "Call to Action Number"
+msgstr ""
+
+#: admin/theme-options/header.php:157
+msgid "Call to action number"
+msgstr ""
+
+#: admin/theme-options/header.php:171
+msgid "Display Icon in Menu"
+msgstr ""
+
+#: admin/theme-options/header.php:186
+msgid "Google Analytics"
+msgstr ""
+
+#: admin/theme-options/header.php:187
+msgid "Google analytics code"
+msgstr ""
+
+#: admin/theme-options/portfolio.php:6
+msgid "Portfolio Header Title"
+msgstr ""
+
+#: admin/theme-options/portfolio.php:7
+msgid "Portfolio page header title"
+msgstr ""
+
+#: admin/theme-options/portfolio.php:21
+msgid "Portfolio Header Sub-Title"
+msgstr ""
+
+#: admin/theme-options/portfolio.php:22
+msgid "Portfolio page header sub-title"
+msgstr ""
+
+#: admin/theme-options/portfolio.php:36
+msgid "Portfolio layout"
+msgstr ""
+
+#: admin/theme-options/portfolio.php:37
+msgid "Portfolio layout for portfolio page"
+msgstr ""
+
+#: admin/theme-options/portfolio.php:68
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: admin/theme-options/portfolio.php:69
+msgid "Select your portfolio sidebar"
+msgstr ""
+
+#: admin/theme-options/portfolio.php:83
+msgid "Portfolio Single Header Title"
+msgstr ""
+
+#: admin/theme-options/portfolio.php:84
+msgid "Portfolio single header title"
+msgstr ""
+
+#: admin/theme-options/portfolio.php:98
+msgid "Portfolio Single Header Sub-Title"
+msgstr ""
+
+#: admin/theme-options/portfolio.php:99
+msgid "Portfolio single header sub-title"
+msgstr ""
+
+#: admin/theme-options/portfolio.php:113 admin/theme-options/portfolio.php:114
+msgid "Portfolio single post layout"
+msgstr ""
+
+#: admin/theme-options/portfolio.php:145
+msgid "Single post Sidebar"
+msgstr ""
+
+#: admin/theme-options/portfolio.php:146
+msgid "Single post sidebar"
+msgstr ""
+
+#: admin/theme-options/sidebar.php:6
+msgid "Create Sidebar"
+msgstr ""
+
+#: admin/theme-options/sidebar.php:7
+msgid "Click add new to add new sidebar, after adding click save changes"
+msgstr ""
+
+#: admin/theme-options/styling.php:6
+msgid "Preset Color"
+msgstr ""
+
+#: admin/theme-options/styling.php:7
+msgid "Main preset color"
+msgstr ""
+
+#: admin/theme-options/styling.php:60
+msgid "Secondary Preset Color"
+msgstr ""
+
+#: admin/theme-options/styling.php:61
+msgid "Secondary preset color"
+msgstr ""
+
+#: admin/theme-options/team.php:6
+msgid "Team Header Title"
+msgstr ""
+
+#: admin/theme-options/team.php:7
+msgid "Team page header title"
+msgstr ""
+
+#: admin/theme-options/team.php:21
+msgid "Team Header Sub-Title"
+msgstr ""
+
+#: admin/theme-options/team.php:22
+msgid "Team page header sub-title"
+msgstr ""
+
+#: admin/theme-options/team.php:36
+msgid "Team Column in Archive Page"
+msgstr ""
+
+#: admin/theme-options/team.php:51
+msgid "Team Style"
+msgstr ""
+
+#: admin/theme-options/team.php:52
+msgid "Select team style"
+msgstr ""
+
+#: admin/theme-options/typography.php:6
+msgid "Google API Key"
+msgstr ""
+
+#: admin/theme-options/typography.php:7
+msgid "Google API key for getting google fonts"
+msgstr ""
+
+#: admin/theme-options/typography.php:21
+msgid "Google Fonts."
+msgstr ""
+
+#: admin/theme-options/typography.php:22
+msgid "You can add multiple google fonts and set it to any tag."
+msgstr ""
+
+#: admin/theme-options/typography.php:36
+msgid "Body &amp; Content p"
+msgstr ""
+
+#: admin/theme-options/typography.php:58
+msgid "Body a"
+msgstr ""
+
+#: admin/theme-options/typography.php:79
+msgid "Menu a"
+msgstr ""
+
+#: admin/theme-options/typography.php:100
+msgid "Submenu a"
+msgstr ""
+
+#: admin/theme-options/typography.php:121
+msgid "H1"
+msgstr ""
+
+#: admin/theme-options/typography.php:143
+msgid "H2"
+msgstr ""
+
+#: admin/theme-options/typography.php:165
+msgid "H3"
+msgstr ""
+
+#: admin/theme-options/typography.php:187
+msgid "H4"
+msgstr ""
+
+#: admin/theme-options/typography.php:209
+msgid "H5"
+msgstr ""
+
+#: admin/theme-options/typography.php:230
+msgid "H6"
+msgstr ""
+
+#: admin/theme-options/typography.php:251
+msgid "Sidebar typography options"
+msgstr ""
+
+#: admin/theme-options/typography.php:252
+msgid "Only Applied on sidebar widget area"
+msgstr ""
+
+#: admin/theme-options/typography.php:272
+msgid "Sidebar Title"
+msgstr ""
+
+#: admin/theme-options/typography.php:293
+msgid "Sidebar p"
+msgstr ""
+
+#: admin/theme-options/typography.php:314
+msgid "Sidebar Link"
+msgstr ""
+
+#: admin/theme-options/typography.php:335
+msgid "Footer Typography option"
+msgstr ""
+
+#: admin/theme-options/typography.php:336
+msgid "Only applied on footer."
+msgstr ""
+
+#: admin/theme-options/typography.php:350
+msgid "Footer p"
+msgstr ""
+
+#: admin/theme-options/typography.php:371
+msgid "Footer Widget Title"
+msgstr ""
+
+#: admin/theme-options/typography.php:392
+msgid "Footer Widget Content"
+msgstr ""
+
+#: admin/theme-options/typography.php:413
+msgid "Footer Link"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:6
+msgid "Shop Title"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:7
+msgid "Shop page title"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:21
+msgid "Shop Sub-Title"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:22
+msgid "Shop page sub title"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:36
+msgid "Shop Single Title"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:37
+msgid "Shop single page title"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:51
+msgid "Shop Single Sub-Title"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:52
+msgid "Shop single page Sub title"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:66
+msgid "Product Row"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:81
+msgid "Product Column"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:96
+msgid "Related Product Column"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:111
+msgid "Category Product Column"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:126
+msgid "Shop layout"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:127
+msgid "Shop layout for blog page"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:158
+msgid "Shop Sidebar"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:159
+msgid "Select your shop sidebar"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:173
+#: admin/theme-options/woocommerce.php:174
+msgid "Shop single post layout"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:205
+msgid "Single shop Sidebar"
+msgstr ""
+
+#: admin/theme-options/woocommerce.php:206
+msgid "Single shop sidebar"
+msgstr ""
+
+#: admin/widgets.php:11
+msgid "Main Sidebar"
+msgstr ""
+
+#: admin/widgets.php:13
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: admin/widgets.php:45
+#, php-format
+msgid "Footer Widget Area %d"
+msgstr ""
+
+#: admin/widgets.php:47
+#, php-format
+msgid "Appears in Footer column %d"
+msgstr ""
+
+#: admin/widgets.php:61
+msgid "Appears in footer top"
+msgstr ""
+
+#: archive.php:29
+msgid "All Articles for Archive"
+msgstr ""
+
+#: author-bio.php:34
+msgid "Published by "
+msgstr ""
+
+#: author-bio.php:39
+msgid "All stories by "
+msgstr ""
+
+#: author-bio.php:43
+msgid "Follow"
+msgstr ""
+
+#: category.php:23
+msgid "All Articles for Category"
+msgstr ""
+
+#: comments.php:29 content-audio.php:50 content-audio.php:98
+#: content-gallery.php:68 content-gallery.php:127 content-quote.php:50
+#: content-quote.php:108 content-sticky.php:49 content-video.php:55
+#: content-video.php:96 content.php:50 content.php:97
+#: include/elements/posts.php:476 include/functions.php:515
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:29 content-audio.php:50 content-audio.php:98
+#: content-gallery.php:68 content-gallery.php:127 content-quote.php:50
+#: content-quote.php:108 content-sticky.php:49 content-video.php:55
+#: content-video.php:96 content.php:50 content.php:97
+#: include/elements/posts.php:476 include/functions.php:515
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:29 content-audio.php:50 content-audio.php:98
+#: content-gallery.php:68 content-gallery.php:127 content-quote.php:50
+#: content-quote.php:108 content-sticky.php:49 content-video.php:55
+#: content-video.php:96 content.php:50 content.php:97
+#: include/elements/posts.php:476 include/functions.php:515
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:36
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:76
+msgid "Name *"
+msgstr ""
+
+#: comments.php:77
+msgid "Type your name*..."
+msgstr ""
+
+#: comments.php:80
+msgid "Email *"
+msgstr ""
+
+#: comments.php:81
+msgid "Type your email*..."
+msgstr ""
+
+#: comments.php:85
+msgid "Add Comment *"
+msgstr ""
+
+#: comments.php:86
+msgid "Type your comment here*..."
+msgstr ""
+
+#: comments.php:91
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:94
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
+msgstr ""
+
+#: comments.php:99
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:100
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: comments.php:101
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:102
+msgid "Post Comment"
+msgstr ""
+
+#: content-audio.php:55 content-audio.php:111 content-gallery.php:73
+#: content-gallery.php:140 content-quote.php:55 content-quote.php:121
+#: content-video.php:60 content-video.php:109 content.php:55 content.php:110
+#: include/elements/pricing-tab.php:557 include/elements/pricing.php:631
+#: include/functions.php:7 include/functions.php:520
+msgid "Read More"
+msgstr ""
+
+#: content-audio.php:94 content-gallery.php:123 content-quote.php:104
+#: content-video.php:92 content.php:93
+msgid "Posted on "
+msgstr ""
+
+#: content-audio.php:117 content-gallery.php:146 content-page.php:6
+#: content-quote.php:127 content-video.php:115 content.php:116
+#: page-templates/home-page.php:24 page-templates/one-page.php:24
+#: page-templates/theme-full-width.php:25
+msgid "Pages:"
+msgstr ""
+
+#: content-audio.php:121 content-gallery.php:150 content-page.php:10
+#: content-quote.php:131 content-video.php:119 content.php:120
+#: page-templates/home-page.php:28 page-templates/one-page.php:28
+#: page-templates/theme-full-width.php:29
+msgid "Page"
+msgstr ""
+
+#: content-gallery.php:25 content-gallery.php:92 include/functions.php:285
+msgid "images thumbnail"
+msgstr ""
+
+#: content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:6
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-portfolio.php:36
+msgid "Read More "
+msgstr ""
+
+#: functions.php:61
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:62
+msgid "Footer Menu"
+msgstr ""
+
+#: header/banner.php:15
+msgid "Category Archives: "
+msgstr ""
+
+#: header/banner.php:21
+msgid "Search Result"
+msgstr ""
+
+#: header/banner.php:22
+msgid "This is a Search Results Page for: "
+msgstr ""
+
+#: header/banner.php:24
+msgid "Author Archives: "
+msgstr ""
+
+#: header/banner.php:29
+msgid "Tag Archives: "
+msgstr ""
+
+#: header/banner.php:36
+msgid "Daily Archives: "
+msgstr ""
+
+#: header/banner.php:38
+msgid "Monthly Archives: "
+msgstr ""
+
+#: header/banner.php:38
+msgid "F Y"
+msgstr ""
+
+#: header/banner.php:40
+msgid "Yearly Archives: "
+msgstr ""
+
+#: header/banner.php:40
+msgid "Y"
+msgstr ""
+
+#: header/banner.php:42
+msgid "Archives"
+msgstr ""
+
+#: header/banner.php:45
+msgid "Page Not Found"
+msgstr ""
+
+#: header/banner.php:46
+msgid "Sorry page not found..."
+msgstr ""
+
+#: header/banner.php:62
+msgid "We Care About The Details"
+msgstr ""
+
+#: header/banner.php:63
+msgid ""
+"Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis a "
+"libero tempus, blandit and cursus varius and magnis sapien"
+msgstr ""
+
+#: header/banner.php:68
+msgid "Product Details"
+msgstr ""
+
+#: include/breadcrumbs.php:9 include/breadcrumbs.php:13
+msgid "Home"
+msgstr ""
+
+#: include/breadcrumbs.php:39
+#, php-format
+msgid "Archive by category %s"
+msgstr ""
+
+#: include/breadcrumbs.php:42
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: include/breadcrumbs.php:102
+#, php-format
+msgid "Posts tagged %s"
+msgstr ""
+
+#: include/breadcrumbs.php:107
+#, php-format
+msgid "Articles posted by %s"
+msgstr ""
+
+#: include/breadcrumbs.php:110
+msgid "Error 404"
+msgstr ""
+
+#: include/breadcrumbs.php:115
+msgid " (Page"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:87
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:95
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:139
+msgid "Move up"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:165
+msgid "Move down"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:169
+msgid "Edit Menu Item"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:173 include/functions.php:72
+#: include/functions.php:87
+msgid "Edit"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:189
+msgid "URL"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:203
+msgid "Navigation Label"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:215
+msgid "Title Attribute"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:229
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:239
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:251
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:267
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:281
+msgid "Submenu Type"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:287
+msgid "Standard Dropdown"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:293
+msgid "Megamenu"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:307
+msgid "Submenu Columns (Only for Megamenus)"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:337
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:363
+msgid "Remove"
+msgstr ""
+
+#: include/custom-menu/edit_custom_walker.php:365
+msgid "Cancel"
+msgstr ""
+
+#: include/elementor-widgets.php:47 include/elements/percent-box.php:68
+msgid "Olmo"
+msgstr ""
+
+#: include/elementor-widgets.php:81
+msgid "Olmo Icons"
+msgstr ""
+
+#: include/elements/contact-box.php:21
+msgid "Contact Box"
+msgstr ""
+
+#: include/elements/contact-box.php:38 include/elements/counter.php:38
+#: include/elements/divider.php:37 include/elements/feature-lists.php:38
+#: include/elements/gallery.php:38 include/elements/listicon.php:38
+#: include/elements/partner.php:38 include/elements/percent-box.php:38
+#: include/elements/portfolio-meta.php:37 include/elements/portfolios.php:37
+#: include/elements/posts.php:37 include/elements/posts.php:208
+#: include/elements/pricing-tab.php:38 include/elements/pricing.php:38
+#: include/elements/services-box.php:38 include/elements/services.php:37
+#: include/elements/slider.php:38 include/elements/taxonomy-list.php:37
+#: include/elements/team-meta.php:37 include/elements/team.php:38
+#: include/elements/teams.php:37 include/elements/testmonials.php:38
+#: include/elements/title.php:38 include/elements/video-popup.php:38
+msgid "Content"
+msgstr ""
+
+#: include/elements/contact-box.php:46 include/elements/counter.php:59
+msgid "Show Icon"
+msgstr ""
+
+#: include/elements/contact-box.php:48 include/elements/counter.php:61
+#: include/elements/counter.php:118 include/elements/portfolio-meta.php:57
+#: include/elements/portfolio-meta.php:69
+#: include/elements/portfolio-meta.php:81
+#: include/elements/portfolio-meta.php:93
+#: include/elements/portfolio-meta.php:105 include/elements/posts.php:103
+#: include/elements/posts.php:115 include/elements/pricing.php:48
+#: include/elements/team-meta.php:57 include/elements/team-meta.php:69
+#: include/elements/team-meta.php:81 include/elements/team-meta.php:93
+#: include/elements/team-meta.php:105 include/elements/team-meta.php:117
+#: include/elements/testmonials.php:222
+msgid "Show"
+msgstr ""
+
+#: include/elements/contact-box.php:49 include/elements/counter.php:62
+#: include/elements/counter.php:119 include/elements/portfolio-meta.php:58
+#: include/elements/portfolio-meta.php:70
+#: include/elements/portfolio-meta.php:82
+#: include/elements/portfolio-meta.php:94
+#: include/elements/portfolio-meta.php:106 include/elements/posts.php:104
+#: include/elements/posts.php:116 include/elements/pricing.php:49
+#: include/elements/team-meta.php:58 include/elements/team-meta.php:70
+#: include/elements/team-meta.php:82 include/elements/team-meta.php:94
+#: include/elements/team-meta.php:106 include/elements/team-meta.php:118
+#: include/elements/testmonials.php:223
+msgid "Hide"
+msgstr ""
+
+#: include/elements/contact-box.php:58 include/elements/contact-box.php:134
+#: include/elements/counter.php:71 include/elements/counter.php:200
+#: include/elements/feature-lists.php:59 include/elements/feature-lists.php:77
+#: include/elements/listicon.php:46 include/elements/listicon.php:130
+#: include/elements/services-box.php:110 include/elements/services-box.php:118
+#: include/elements/services-box.php:262 include/elements/title.php:79
+msgid "Icon"
+msgstr ""
+
+#: include/elements/contact-box.php:73
+msgid "Call Us"
+msgstr ""
+
+#: include/elements/contact-box.php:74 include/elements/counter.php:109
+#: include/elements/listicon.php:69 include/elements/percent-box.php:49
+#: include/elements/portfolio-meta.php:48 include/elements/pricing-tab.php:51
+#: include/elements/pricing.php:61 include/elements/pricing.php:72
+#: include/elements/pricing.php:82 include/elements/services-box.php:62
+#: include/elements/slider.php:60 include/elements/taxonomy-list.php:48
+#: include/elements/team-meta.php:48 include/elements/team.php:57
+#: include/elements/team.php:89 include/elements/testmonials.php:95
+#: include/elements/title.php:62 include/elements/video-popup.php:62
+msgid "Type your title here"
+msgstr ""
+
+#: include/elements/contact-box.php:83
+msgid "936-303-959"
+msgstr ""
+
+#: include/elements/contact-box.php:84
+msgid "Enter your description"
+msgstr ""
+
+#: include/elements/contact-box.php:90 include/elements/counter.php:144
+#: include/elements/feature-lists.php:98 include/elements/listicon.php:86
+#: include/elements/main-logo.php:76 include/elements/percent-box.php:85
+#: include/elements/pricing-tab.php:145 include/elements/pricing.php:217
+#: include/elements/services-box.php:148 include/elements/services.php:128
+#: include/elements/team.php:139 include/elements/teams.php:116
+#: include/elements/testmonials.php:158 include/elements/title.php:101
+#: include/elements/video-popup.php:87
+msgid "Alignment"
+msgstr ""
+
+#: include/elements/contact-box.php:95 include/elements/counter.php:149
+#: include/elements/feature-lists.php:103 include/elements/listicon.php:91
+#: include/elements/main-logo.php:81 include/elements/percent-box.php:90
+#: include/elements/pricing-tab.php:150 include/elements/pricing.php:222
+#: include/elements/services-box.php:153 include/elements/services-box.php:606
+#: include/elements/services.php:133 include/elements/slider.php:116
+#: include/elements/slider.php:131 include/elements/team.php:144
+#: include/elements/teams.php:121 include/elements/testmonials.php:163
+#: include/elements/title.php:106 include/elements/video-popup.php:92
+msgid "Left"
+msgstr ""
+
+#: include/elements/contact-box.php:99 include/elements/counter.php:153
+#: include/elements/feature-lists.php:107 include/elements/listicon.php:95
+#: include/elements/main-logo.php:85 include/elements/percent-box.php:94
+#: include/elements/pricing-tab.php:154 include/elements/pricing.php:226
+#: include/elements/services-box.php:157 include/elements/services-box.php:610
+#: include/elements/services.php:137 include/elements/slider.php:117
+#: include/elements/slider.php:130 include/elements/team.php:148
+#: include/elements/teams.php:125 include/elements/testmonials.php:167
+#: include/elements/title.php:110 include/elements/video-popup.php:96
+msgid "Center"
+msgstr ""
+
+#: include/elements/contact-box.php:103 include/elements/counter.php:157
+#: include/elements/feature-lists.php:111 include/elements/listicon.php:99
+#: include/elements/main-logo.php:89 include/elements/percent-box.php:98
+#: include/elements/pricing-tab.php:158 include/elements/pricing.php:230
+#: include/elements/services-box.php:161 include/elements/services-box.php:614
+#: include/elements/services.php:141 include/elements/slider.php:118
+#: include/elements/slider.php:132 include/elements/team.php:152
+#: include/elements/teams.php:129 include/elements/testmonials.php:171
+#: include/elements/title.php:114 include/elements/video-popup.php:100
+msgid "Right"
+msgstr ""
+
+#: include/elements/contact-box.php:118 include/elements/contact-box.php:154
+#: include/elements/contact-box.php:221 include/elements/contact-box.php:265
+#: include/elements/counter.php:172 include/elements/counter.php:393
+#: include/elements/gallery.php:95 include/elements/listicon.php:114
+#: include/elements/listicon.php:382 include/elements/listicon.php:472
+#: include/elements/listicon.php:571 include/elements/main-logo.php:104
+#: include/elements/partner.php:114 include/elements/percent-box.php:113
+#: include/elements/percent-box.php:188 include/elements/percent-box.php:232
+#: include/elements/pricing-tab.php:173 include/elements/pricing-tab.php:249
+#: include/elements/pricing-tab.php:291 include/elements/pricing-tab.php:333
+#: include/elements/pricing-tab.php:375 include/elements/pricing-tab.php:417
+#: include/elements/pricing-tab.php:459 include/elements/pricing-tab.php:501
+#: include/elements/pricing-tab.php:543 include/elements/pricing-tab.php:607
+#: include/elements/pricing-tab.php:675 include/elements/pricing.php:245
+#: include/elements/pricing.php:321 include/elements/pricing.php:363
+#: include/elements/pricing.php:407 include/elements/pricing.php:449
+#: include/elements/pricing.php:491 include/elements/pricing.php:533
+#: include/elements/pricing.php:575 include/elements/pricing.php:617
+#: include/elements/pricing.php:681 include/elements/pricing.php:749
+#: include/elements/services-box.php:175 include/elements/services-box.php:433
+#: include/elements/services-box.php:524 include/elements/services-box.php:628
+#: include/elements/services-box.php:662 include/elements/slider.php:164
+#: include/elements/slider.php:298 include/elements/slider.php:386
+#: include/elements/team.php:167 include/elements/testmonials.php:186
+#: include/elements/testmonials.php:365 include/elements/testmonials.php:442
+#: include/elements/testmonials.php:530 include/elements/title.php:207
+#: include/elements/title.php:306 include/elements/title.php:397
+#: include/elements/video-popup.php:114 include/elements/video-popup.php:312
+msgid "Padding"
+msgstr ""
+
+#: include/elements/contact-box.php:143 include/elements/counter.php:220
+#: include/elements/counter.php:240 include/elements/feature-lists.php:157
+#: include/elements/listicon.php:278 include/elements/services-box.php:411
+#: include/elements/slider.php:210 include/elements/testmonials.php:277
+#: include/elements/video-popup.php:290
+msgid "Icon Color"
+msgstr ""
+
+#: include/elements/contact-box.php:166 include/elements/slider.php:221
+#: include/elements/testmonials.php:288 include/elements/video-popup.php:301
+msgid "Icon BG Color"
+msgstr ""
+
+#: include/elements/contact-box.php:177 include/elements/contact-box.php:302
+#: include/elements/counter.php:184 include/elements/listicon.php:300
+#: include/elements/listicon.php:595 include/elements/pricing-tab.php:699
+#: include/elements/pricing-tab.php:819 include/elements/pricing.php:773
+#: include/elements/services-box.php:445 include/elements/services-box.php:686
+#: include/elements/team.php:192 include/elements/title.php:318
+#: include/elements/video-popup.php:324
+msgid "Border Radius"
+msgstr ""
+
+#: include/elements/contact-box.php:193 include/elements/percent-box.php:129
+msgid "Text"
+msgstr ""
+
+#: include/elements/contact-box.php:201 include/elements/contact-box.php:245
+#: include/elements/percent-box.php:137 include/elements/percent-box.php:212
+#: include/elements/pricing-tab.php:198 include/elements/pricing-tab.php:271
+#: include/elements/pricing-tab.php:313 include/elements/pricing-tab.php:355
+#: include/elements/pricing-tab.php:397 include/elements/pricing-tab.php:439
+#: include/elements/pricing-tab.php:481 include/elements/pricing-tab.php:523
+#: include/elements/pricing-tab.php:576 include/elements/pricing-tab.php:628
+#: include/elements/pricing-tab.php:754 include/elements/pricing.php:270
+#: include/elements/pricing.php:343 include/elements/pricing.php:387
+#: include/elements/pricing.php:429 include/elements/pricing.php:471
+#: include/elements/pricing.php:513 include/elements/pricing.php:555
+#: include/elements/pricing.php:597 include/elements/pricing.php:650
+#: include/elements/pricing.php:702 include/elements/slider.php:199
+#: include/elements/slider.php:241 include/elements/slider.php:331
+#: include/elements/slider.php:351 include/elements/testmonials.php:266
+#: include/elements/testmonials.php:308 include/elements/testmonials.php:398
+#: include/elements/testmonials.php:418 include/elements/testmonials.php:475
+#: include/elements/testmonials.php:495
+msgid "Color"
+msgstr ""
+
+#: include/elements/contact-box.php:213 include/elements/contact-box.php:257
+#: include/elements/counter.php:385 include/elements/counter.php:464
+#: include/elements/feature-lists.php:149 include/elements/listicon.php:452
+#: include/elements/listicon.php:542 include/elements/percent-box.php:171
+#: include/elements/percent-box.php:224 include/elements/portfolio-meta.php:139
+#: include/elements/portfolios.php:125 include/elements/posts.php:184
+#: include/elements/posts.php:228 include/elements/posts.php:307
+#: include/elements/posts.php:386 include/elements/services-box.php:516
+#: include/elements/services-box.php:594 include/elements/services.php:179
+#: include/elements/slider.php:279 include/elements/slider.php:367
+#: include/elements/taxonomy-list.php:105 include/elements/team-meta.php:152
+#: include/elements/team.php:226 include/elements/team.php:267
+#: include/elements/team.php:297 include/elements/teams.php:167
+#: include/elements/testmonials.php:346 include/elements/testmonials.php:434
+#: include/elements/testmonials.php:511 include/elements/title.php:199
+#: include/elements/title.php:298 include/elements/title.php:389
+msgid "Typography"
+msgstr ""
+
+#: include/elements/contact-box.php:283
+msgid "Box"
+msgstr ""
+
+#: include/elements/contact-box.php:291 include/elements/feature-lists.php:168
+#: include/elements/percent-box.php:159 include/elements/pricing-tab.php:587
+#: include/elements/pricing.php:661
+msgid "BG Color"
+msgstr ""
+
+#: include/elements/counter.php:21
+msgid "Counter"
+msgstr ""
+
+#: include/elements/counter.php:46 include/elements/feature-lists.php:129
+#: include/elements/gallery.php:46 include/elements/gallery.php:110
+#: include/elements/services-box.php:46 include/elements/services.php:45
+#: include/elements/teams.php:45 include/elements/testmonials.php:46
+#: include/elements/title.php:46 include/elements/video-popup.php:46
+#: include/elements/video-popup.php:142
+msgid "Style"
+msgstr ""
+
+#: include/elements/counter.php:96
+msgid "Number Text"
+msgstr ""
+
+#: include/elements/counter.php:98
+msgid "K"
+msgstr ""
+
+#: include/elements/counter.php:99
+msgid "Ex: K,M etc"
+msgstr ""
+
+#: include/elements/counter.php:108
+msgid "Projects are completed"
+msgstr ""
+
+#: include/elements/counter.php:116
+msgid "Show Rating"
+msgstr ""
+
+#: include/elements/counter.php:128 include/elements/testmonials.php:122
+msgid "Rating"
+msgstr ""
+
+#: include/elements/counter.php:133 include/elements/testmonials.php:126
+#: include/elements/testmonials.php:149
+msgid "5"
+msgstr ""
+
+#: include/elements/counter.php:134 include/elements/testmonials.php:127
+msgid "4"
+msgstr ""
+
+#: include/elements/counter.php:135 include/elements/testmonials.php:128
+msgid "3"
+msgstr ""
+
+#: include/elements/counter.php:136 include/elements/testmonials.php:129
+msgid "2"
+msgstr ""
+
+#: include/elements/counter.php:137 include/elements/testmonials.php:130
+msgid "1"
+msgstr ""
+
+#: include/elements/counter.php:213 include/elements/counter.php:320
+#: include/elements/counter.php:421 include/elements/listicon.php:409
+#: include/elements/listicon.php:499 include/elements/posts.php:141
+#: include/elements/posts.php:264 include/elements/posts.php:343
+#: include/elements/pricing-tab.php:569 include/elements/pricing.php:643
+#: include/elements/services-box.php:473 include/elements/services-box.php:551
+#: include/elements/slider.php:192 include/elements/slider.php:324
+#: include/elements/slider.php:412 include/elements/testmonials.php:259
+#: include/elements/testmonials.php:391 include/elements/testmonials.php:468
+#: include/elements/testmonials.php:556 include/elements/title.php:156
+#: include/elements/title.php:233 include/elements/title.php:346
+msgid "Normal"
+msgstr ""
+
+#: include/elements/counter.php:233 include/elements/counter.php:351
+#: include/elements/counter.php:441 include/elements/listicon.php:429
+#: include/elements/listicon.php:519 include/elements/posts.php:161
+#: include/elements/posts.php:284 include/elements/posts.php:363
+#: include/elements/pricing-tab.php:621 include/elements/pricing.php:695
+#: include/elements/services-box.php:493 include/elements/services-box.php:571
+#: include/elements/slider.php:234 include/elements/slider.php:344
+#: include/elements/testmonials.php:301 include/elements/testmonials.php:411
+#: include/elements/testmonials.php:488 include/elements/title.php:176
+#: include/elements/title.php:264 include/elements/title.php:366
+msgid "Hover"
+msgstr ""
+
+#: include/elements/counter.php:255 include/elements/listicon.php:243
+#: include/elements/services-box.php:376
+msgid "Font Size"
+msgstr ""
+
+#: include/elements/counter.php:290 include/elements/counter.php:472
+#: include/elements/divider.php:81 include/elements/feature-lists.php:87
+#: include/elements/listicon.php:460 include/elements/listicon.php:583
+#: include/elements/posts.php:192 include/elements/posts.php:236
+#: include/elements/posts.php:315 include/elements/posts.php:394
+#: include/elements/pricing-tab.php:687 include/elements/pricing.php:761
+#: include/elements/services-box.php:674 include/elements/title.php:128
+#: include/elements/video-popup.php:126
+msgid "Margin"
+msgstr ""
+
+#: include/elements/counter.php:327 include/elements/counter.php:358
+msgid "Number Color"
+msgstr ""
+
+#: include/elements/counter.php:338 include/elements/counter.php:369
+msgid "Main Background"
+msgstr ""
+
+#: include/elements/counter.php:428 include/elements/counter.php:448
+#: include/elements/listicon.php:416 include/elements/listicon.php:436
+#: include/elements/portfolio-meta.php:127 include/elements/portfolios.php:113
+#: include/elements/posts.php:148 include/elements/posts.php:168
+#: include/elements/services-box.php:480 include/elements/services-box.php:500
+#: include/elements/services.php:167 include/elements/team-meta.php:140
+#: include/elements/team.php:214 include/elements/teams.php:155
+#: include/elements/title.php:163 include/elements/title.php:183
+msgid "Title Color"
+msgstr ""
+
+#: include/elements/divider.php:20
+msgid "Olmo Divider"
+msgstr ""
+
+#: include/elements/divider.php:45 include/elements/listicon.php:173
+#: include/elements/services-box.php:235 include/elements/services-box.php:306
+#: include/elements/video-popup.php:185
+msgid "Height"
+msgstr ""
+
+#: include/elements/feature-lists.php:21
+msgid "Feature Lists"
+msgstr ""
+
+#: include/elements/feature-lists.php:50
+msgid "Feature 1"
+msgstr ""
+
+#: include/elements/feature-lists.php:51
+msgid "Type your feature title here"
+msgstr ""
+
+#: include/elements/feature-lists.php:71
+msgid "Feature List"
+msgstr ""
+
+#: include/elements/feature-lists.php:76 include/elements/partner.php:91
+msgid "Title #1"
+msgstr ""
+
+#: include/elements/feature-lists.php:137
+msgid "Icon Text Color"
+msgstr ""
+
+#: include/elements/feature-lists.php:179
+msgid "Icon Font Size"
+msgstr ""
+
+#: include/elements/feature-lists.php:214
+msgid "Icon Padding"
+msgstr ""
+
+#: include/elements/feature-lists.php:226 include/elements/partner.php:103
+#: include/elements/portfolio-meta.php:158 include/elements/pricing-tab.php:731
+#: include/elements/pricing.php:805 include/elements/slider.php:375
+#: include/elements/taxonomy-list.php:124 include/elements/team-meta.php:171
+#: include/elements/testmonials.php:519
+msgid "Border Color"
+msgstr ""
+
+#: include/elements/gallery.php:51 include/elements/slider.php:21
+msgid "Slider"
+msgstr ""
+
+#: include/elements/gallery.php:59
+msgid "Add Images"
+msgstr ""
+
+#: include/elements/gallery.php:68 include/elements/services.php:70
+#: include/elements/teams.php:70
+msgid "Number of Column"
+msgstr ""
+
+#: include/elements/gallery.php:80 include/elements/gallery.php:85
+msgid "Gutter"
+msgstr ""
+
+#: include/elements/gallery.php:86
+msgid "No Gutter"
+msgstr ""
+
+#: include/elements/gallery.php:141 include/elements/gallery.php:154
+msgid "gallery image"
+msgstr ""
+
+#: include/elements/icon-control/custom-icon.php:282
+#: include/elements/icon-control/custom-icon.php:283
+msgid "Select Icon"
+msgstr ""
+
+#: include/elements/listicon.php:21
+msgid "Listicon"
+msgstr ""
+
+#: include/elements/listicon.php:58 include/elements/services-box.php:140
+msgid "Shape"
+msgstr ""
+
+#: include/elements/listicon.php:68
+msgid "Raise funds with a crowdfunding campaign"
+msgstr ""
+
+#: include/elements/listicon.php:79 include/elements/services-box.php:97
+msgid ""
+"Vestibulum commodo sapien non elit  porttitor, vitae volutpat nibh mollis. "
+"Nulla porta risus."
+msgstr ""
+
+#: include/elements/listicon.php:80 include/elements/services-box.php:98
+#: include/elements/testmonials.php:65 include/elements/title.php:95
+msgid "Type your description here"
+msgstr ""
+
+#: include/elements/listicon.php:138 include/elements/services-box.php:212
+#: include/elements/services-box.php:271 include/elements/video-popup.php:150
+msgid "Width"
+msgstr ""
+
+#: include/elements/listicon.php:208 include/elements/services-box.php:341
+#: include/elements/video-popup.php:220
+msgid "Line Height"
+msgstr ""
+
+#: include/elements/listicon.php:289 include/elements/services-box.php:422
+msgid "Icon Background Color"
+msgstr ""
+
+#: include/elements/listicon.php:312
+msgid "Shape Width"
+msgstr ""
+
+#: include/elements/listicon.php:347
+msgid "Shape Height"
+msgstr ""
+
+#: include/elements/listicon.php:506 include/elements/listicon.php:526
+#: include/elements/services-box.php:558 include/elements/services-box.php:578
+#: include/elements/title.php:353
+msgid "Description Color"
+msgstr ""
+
+#: include/elements/listicon.php:553 include/elements/pricing-tab.php:657
+#: include/elements/pricing.php:731 include/elements/services-box.php:644
+msgid "box"
+msgstr ""
+
+#: include/elements/listicon.php:562 include/elements/pricing-tab.php:666
+#: include/elements/pricing.php:740 include/elements/services-box.php:653
+msgid "Background"
+msgstr ""
+
+#: include/elements/listicon.php:608 include/elements/pricing-tab.php:712
+#: include/elements/pricing.php:786 include/elements/services-box.php:699
+msgid "Box Shadow"
+msgstr ""
+
+#: include/elements/main-logo.php:21
+msgid "Main Logo"
+msgstr ""
+
+#: include/elements/main-logo.php:38
+msgid "Logo settings"
+msgstr ""
+
+#: include/elements/main-logo.php:45
+msgid "Logo"
+msgstr ""
+
+#: include/elements/main-logo.php:54
+msgid "Logo Width"
+msgstr ""
+
+#: include/elements/main-logo.php:65
+msgid "Logo Height"
+msgstr ""
+
+#: include/elements/partner.php:21
+msgid "Partner"
+msgstr ""
+
+#: include/elements/partner.php:50
+msgid "Partner 1"
+msgstr ""
+
+#: include/elements/partner.php:51
+msgid "Type your partner title here"
+msgstr ""
+
+#: include/elements/partner.php:59
+msgid "Choose Image"
+msgstr ""
+
+#: include/elements/partner.php:73 include/elements/pricing.php:192
+#: include/elements/services-box.php:81 include/elements/slider.php:89
+#: include/elements/slider.php:104 include/elements/slider.php:150
+#: include/elements/team.php:110 include/elements/video-popup.php:71
+msgid "https://"
+msgstr ""
+
+#: include/elements/partner.php:86
+msgid "Partner List"
+msgstr ""
+
+#: include/elements/partner.php:92
+msgid "Item Image"
+msgstr ""
+
+#: include/elements/partner.php:93
+msgid "Item Link"
+msgstr ""
+
+#: include/elements/percent-box.php:21
+msgid "Percent Box"
+msgstr ""
+
+#: include/elements/percent-box.php:48
+msgid "0.0"
+msgstr ""
+
+#: include/elements/percent-box.php:56
+msgid "Sign"
+msgstr ""
+
+#: include/elements/percent-box.php:58
+msgid "%"
+msgstr ""
+
+#: include/elements/percent-box.php:59
+msgid "Type your sign here"
+msgstr ""
+
+#: include/elements/percent-box.php:66
+msgid "Text 1"
+msgstr ""
+
+#: include/elements/percent-box.php:69 include/elements/percent-box.php:79
+msgid "Type your text here"
+msgstr ""
+
+#: include/elements/percent-box.php:76
+msgid "Text 2"
+msgstr ""
+
+#: include/elements/percent-box.php:78
+msgid "Offers Free Fundraising"
+msgstr ""
+
+#: include/elements/percent-box.php:148
+msgid "Sign Color"
+msgstr ""
+
+#: include/elements/percent-box.php:180
+msgid "Sign Typography"
+msgstr ""
+
+#: include/elements/percent-box.php:204
+msgid "Right Text"
+msgstr ""
+
+#: include/elements/portfolio-meta.php:20
+msgid "Portfolio Meta"
+msgstr ""
+
+#: include/elements/portfolio-meta.php:47
+msgid "Project Info"
+msgstr ""
+
+#: include/elements/portfolio-meta.php:55
+msgid "Show Name"
+msgstr ""
+
+#: include/elements/portfolio-meta.php:67
+msgid "Show Date"
+msgstr ""
+
+#: include/elements/portfolio-meta.php:79
+msgid "Show Category"
+msgstr ""
+
+#: include/elements/portfolio-meta.php:91
+msgid "Show Location"
+msgstr ""
+
+#: include/elements/portfolio-meta.php:103
+msgid "Show Website"
+msgstr ""
+
+#: include/elements/portfolio-meta.php:147 include/elements/portfolios.php:133
+#: include/elements/services.php:187 include/elements/team-meta.php:160
+#: include/elements/team.php:234 include/elements/teams.php:175
+msgid "Title Color Hover"
+msgstr ""
+
+#: include/elements/portfolio-meta.php:169
+#: include/elements/taxonomy-list.php:135 include/elements/team-meta.php:182
+msgid "Border Color Hover"
+msgstr ""
+
+#: include/elements/portfolios.php:20
+msgid "Portfolios"
+msgstr ""
+
+#: include/elements/portfolios.php:45
+msgid "Number of Portfolios"
+msgstr ""
+
+#: include/elements/portfolios.php:57 include/elements/posts.php:57
+#: include/elements/pricing-tab.php:70 include/elements/services.php:86
+msgid "Select Categories"
+msgstr ""
+
+#: include/elements/portfolios.php:69 include/elements/posts.php:69
+#: include/elements/pricing-tab.php:82 include/elements/services.php:98
+#: include/elements/teams.php:86
+msgid "Order"
+msgstr ""
+
+#: include/elements/portfolios.php:73 include/elements/posts.php:73
+#: include/elements/pricing-tab.php:86 include/elements/services.php:102
+#: include/elements/teams.php:90
+msgid "DESC"
+msgstr ""
+
+#: include/elements/portfolios.php:74 include/elements/posts.php:74
+#: include/elements/pricing-tab.php:87 include/elements/services.php:103
+#: include/elements/teams.php:91
+msgid "ASC"
+msgstr ""
+
+#: include/elements/portfolios.php:82 include/elements/posts.php:82
+#: include/elements/pricing-tab.php:95 include/elements/services.php:111
+#: include/elements/teams.php:99
+msgid "Order By"
+msgstr ""
+
+#: include/elements/portfolios.php:87 include/elements/posts.php:87
+#: include/elements/pricing-tab.php:100 include/elements/services.php:116
+#: include/elements/teams.php:104
+msgid "Date"
+msgstr ""
+
+#: include/elements/portfolios.php:88 include/elements/posts.php:88
+#: include/elements/pricing-tab.php:101 include/elements/services.php:117
+#: include/elements/teams.php:105
+msgid "ID"
+msgstr ""
+
+#: include/elements/portfolios.php:89 include/elements/posts.php:89
+#: include/elements/pricing-tab.php:102 include/elements/services.php:118
+#: include/elements/team.php:54 include/elements/teams.php:106
+#: include/elements/testmonials.php:247
+msgid "Name"
+msgstr ""
+
+#: include/elements/portfolios.php:90 include/elements/posts.php:90
+#: include/elements/pricing-tab.php:103 include/elements/services.php:119
+#: include/elements/teams.php:107
+msgid "Rand"
+msgstr ""
+
+#: include/elements/portfolios.php:91 include/elements/posts.php:91
+#: include/elements/pricing-tab.php:104
+msgid "Comment Count"
+msgstr ""
+
+#: include/elements/portfolios.php:92 include/elements/posts.php:92
+#: include/elements/pricing-tab.php:105 include/elements/services.php:120
+#: include/elements/teams.php:108
+msgid "Menu Order"
+msgstr ""
+
+#: include/elements/portfolios.php:93 include/elements/posts.php:93
+#: include/elements/pricing-tab.php:106 include/elements/services.php:121
+#: include/elements/teams.php:109
+msgid "Author"
+msgstr ""
+
+#: include/elements/portfolios.php:144 include/elements/posts.php:350
+#: include/elements/posts.php:370 include/elements/taxonomy-list.php:93
+msgid "Category Color"
+msgstr ""
+
+#: include/elements/portfolios.php:156
+msgid "Category Typography"
+msgstr ""
+
+#: include/elements/posts.php:20
+msgid "Posts"
+msgstr ""
+
+#: include/elements/posts.php:45
+msgid "Number of Posts"
+msgstr ""
+
+#: include/elements/posts.php:101 include/elements/team-meta.php:67
+msgid "Show Description"
+msgstr ""
+
+#: include/elements/posts.php:113
+msgid "Show Comments"
+msgstr ""
+
+#: include/elements/posts.php:216
+msgid "Content Color"
+msgstr ""
+
+#: include/elements/posts.php:252
+msgid "Meta"
+msgstr ""
+
+#: include/elements/posts.php:271 include/elements/posts.php:291
+msgid "Meta Color"
+msgstr ""
+
+#: include/elements/posts.php:331 include/elements/taxonomy-list.php:55
+#: include/elements/taxonomy-list.php:85
+msgid "Category"
+msgstr ""
+
+#: include/elements/pricing-tab.php:21
+msgid "Pricing Tab"
+msgstr ""
+
+#: include/elements/pricing-tab.php:48
+msgid "Tab Title"
+msgstr ""
+
+#: include/elements/pricing-tab.php:50 include/elements/pricing-tab.php:132
+msgid "Monthly"
+msgstr ""
+
+#: include/elements/pricing-tab.php:58
+msgid "Number of Pricing"
+msgstr ""
+
+#: include/elements/pricing-tab.php:114 include/elements/pricing.php:205
+msgid "Read More Style"
+msgstr ""
+
+#: include/elements/pricing-tab.php:118 include/elements/pricing.php:209
+msgid "Default"
+msgstr ""
+
+#: include/elements/pricing-tab.php:119 include/elements/pricing.php:210
+msgid "Fullwidth"
+msgstr ""
+
+#: include/elements/pricing-tab.php:127
+msgid "Tab List"
+msgstr ""
+
+#: include/elements/pricing-tab.php:209 include/elements/pricing.php:281
+msgid "Discount Color"
+msgstr ""
+
+#: include/elements/pricing-tab.php:220 include/elements/pricing.php:292
+msgid "Discount BG Color"
+msgstr ""
+
+#: include/elements/pricing-tab.php:232 include/elements/pricing.php:304
+msgid "Title Typography"
+msgstr ""
+
+#: include/elements/pricing-tab.php:241 include/elements/pricing.php:313
+msgid "Discount Typography"
+msgstr ""
+
+#: include/elements/pricing-tab.php:263 include/elements/pricing.php:335
+msgid "Pricing Price"
+msgstr ""
+
+#: include/elements/pricing-tab.php:283 include/elements/pricing-tab.php:325
+#: include/elements/pricing.php:355 include/elements/pricing.php:399
+msgid "Pricing Price Typography"
+msgstr ""
+
+#: include/elements/pricing-tab.php:305 include/elements/pricing.php:89
+#: include/elements/pricing.php:379
+msgid "Currency"
+msgstr ""
+
+#: include/elements/pricing-tab.php:347 include/elements/pricing.php:421
+msgid "Fraction"
+msgstr ""
+
+#: include/elements/pricing-tab.php:367 include/elements/pricing.php:441
+msgid "Fraction Typography"
+msgstr ""
+
+#: include/elements/pricing-tab.php:389 include/elements/pricing.php:463
+msgid "Period"
+msgstr ""
+
+#: include/elements/pricing-tab.php:409 include/elements/pricing.php:483
+msgid "Period Typography"
+msgstr ""
+
+#: include/elements/pricing-tab.php:451 include/elements/pricing-tab.php:493
+#: include/elements/pricing.php:525 include/elements/pricing.php:567
+msgid "Description Typography"
+msgstr ""
+
+#: include/elements/pricing-tab.php:515 include/elements/pricing.php:163
+#: include/elements/pricing.php:589
+msgid "Pricing List"
+msgstr ""
+
+#: include/elements/pricing-tab.php:535 include/elements/pricing.php:609
+msgid "Pricing List Typography"
+msgstr ""
+
+#: include/elements/pricing-tab.php:599 include/elements/pricing.php:673
+msgid "Read More Typography"
+msgstr ""
+
+#: include/elements/pricing-tab.php:639 include/elements/pricing.php:713
+msgid "Bg Color"
+msgstr ""
+
+#: include/elements/pricing-tab.php:720 include/elements/pricing.php:794
+#: include/elements/services-box.php:187
+msgid "Boeder Width"
+msgstr ""
+
+#: include/elements/pricing-tab.php:746
+msgid "Nav Tabs"
+msgstr ""
+
+#: include/elements/pricing-tab.php:765
+msgid "Active Color"
+msgstr ""
+
+#: include/elements/pricing-tab.php:776
+msgid "Circle Color"
+msgstr ""
+
+#: include/elements/pricing-tab.php:787
+msgid "Circle Active Color"
+msgstr ""
+
+#: include/elements/pricing-tab.php:799
+msgid "Nav Typography"
+msgstr ""
+
+#: include/elements/pricing-tab.php:807
+msgid "Nav Margin"
+msgstr ""
+
+#: include/elements/pricing.php:21
+msgid "Pricing"
+msgstr ""
+
+#: include/elements/pricing.php:46 include/woo-functions.php:65
+msgid "Featured"
+msgstr ""
+
+#: include/elements/pricing.php:60 include/elements/pricing.php:71
+#: include/elements/pricing.php:81
+msgid "Residential"
+msgstr ""
+
+#: include/elements/pricing.php:79
+msgid "Discount"
+msgstr ""
+
+#: include/elements/pricing.php:91
+msgid "$"
+msgstr ""
+
+#: include/elements/pricing.php:92 include/elements/pricing.php:102
+#: include/elements/pricing.php:112 include/elements/pricing.php:122
+#: include/elements/pricing.php:132 include/elements/pricing.php:146
+msgid "Type your price here"
+msgstr ""
+
+#: include/elements/pricing.php:99
+msgid "Price"
+msgstr ""
+
+#: include/elements/pricing.php:101
+msgid "220"
+msgstr ""
+
+#: include/elements/pricing.php:109
+msgid "fraction"
+msgstr ""
+
+#: include/elements/pricing.php:111
+msgid ".99"
+msgstr ""
+
+#: include/elements/pricing.php:119
+msgid "period"
+msgstr ""
+
+#: include/elements/pricing.php:121
+msgid "/month"
+msgstr ""
+
+#: include/elements/pricing.php:131
+msgid "Billed as $96 per year"
+msgstr ""
+
+#: include/elements/pricing.php:145 include/elements/pricing.php:170
+msgid "25"
+msgstr ""
+
+#: include/elements/pricing.php:153
+msgid "List"
+msgstr ""
+
+#: include/elements/pricing.php:155 include/elements/pricing.php:169
+msgid "2 Bedrooms Cleaning"
+msgstr ""
+
+#: include/elements/pricing.php:156
+msgid "Type your list here"
+msgstr ""
+
+#: include/elements/pricing.php:168
+msgid "fas fa-check-circle"
+msgstr ""
+
+#: include/elements/pricing.php:180 include/elements/services-box.php:69
+msgid "Read More Text"
+msgstr ""
+
+#: include/elements/pricing.php:182
+msgid "Submit Request"
+msgstr ""
+
+#: include/elements/pricing.php:183 include/elements/services-box.php:72
+msgid "Type read more text here"
+msgstr ""
+
+#: include/elements/pricing.php:190 include/elements/services-box.php:79
+msgid "Read More Link"
+msgstr ""
+
+#: include/elements/services-box.php:21
+msgid "Service Box"
+msgstr ""
+
+#: include/elements/services-box.php:61
+msgid "Deep Cleaning"
+msgstr ""
+
+#: include/elements/services-box.php:71 include/elements/services.php:256
+msgid "Learn More"
+msgstr ""
+
+#: include/elements/services-box.php:105
+msgid "Icon/Image"
+msgstr ""
+
+#: include/elements/services-box.php:109 include/elements/services-box.php:203
+#: include/elements/team.php:46 include/elements/team.php:184
+msgid "Image"
+msgstr ""
+
+#: include/elements/services-box.php:131
+msgid "Service Image"
+msgstr ""
+
+#: include/elements/services-box.php:601
+msgid "Description Alignment"
+msgstr ""
+
+#: include/elements/services.php:20
+msgid "Services"
+msgstr ""
+
+#: include/elements/services.php:58
+msgid "Number of Services"
+msgstr ""
+
+#: include/elements/services.php:74 include/elements/teams.php:74
+msgid "Column 1"
+msgstr ""
+
+#: include/elements/services.php:75 include/elements/teams.php:75
+msgid "Column 2"
+msgstr ""
+
+#: include/elements/services.php:76 include/elements/teams.php:76
+msgid "Column 3"
+msgstr ""
+
+#: include/elements/services.php:77 include/elements/teams.php:77
+msgid "Column 4"
+msgstr ""
+
+#: include/elements/services.php:78 include/elements/teams.php:78
+msgid "Column 6"
+msgstr ""
+
+#: include/elements/services.php:270
+msgid "View All Services"
+msgstr ""
+
+#: include/elements/slider.php:48 include/elements/slider.php:145
+msgid "Slider Image"
+msgstr ""
+
+#: include/elements/slider.php:56
+msgid "Slider Title"
+msgstr ""
+
+#: include/elements/slider.php:58
+msgid ""
+"OLMO IS CERTIFIED\n"
+"\t\t\t\tCLEANING COMPANY"
+msgstr ""
+
+#: include/elements/slider.php:67
+msgid "Slider Description"
+msgstr ""
+
+#: include/elements/slider.php:69 include/elements/slider.php:148
+msgid ""
+"Quisque suscipit ipsum est, eu venenatis leo ornare eget. Ut porta facilisis "
+"elementum. Sed condimentum sed massa quis ullamcorper. Donec at scelerisque."
+msgstr ""
+
+#: include/elements/slider.php:70
+msgid "Type slider description"
+msgstr ""
+
+#: include/elements/slider.php:77
+msgid "Button Text"
+msgstr ""
+
+#: include/elements/slider.php:79 include/elements/slider.php:149
+msgid "Request Quote"
+msgstr ""
+
+#: include/elements/slider.php:80
+msgid "Type button text here"
+msgstr ""
+
+#: include/elements/slider.php:87
+msgid "Button Link"
+msgstr ""
+
+#: include/elements/slider.php:112
+msgid "Box Align"
+msgstr ""
+
+#: include/elements/slider.php:126
+msgid "Text Align"
+msgstr ""
+
+#: include/elements/slider.php:140
+msgid "Slider List"
+msgstr ""
+
+#: include/elements/slider.php:146
+msgid ""
+"OLMO IS CERTIFIED\n"
+"\t\t\t\t\t\tCLEANING COMPANY"
+msgstr ""
+
+#: include/elements/slider.php:151 include/elements/team.php:129
+msgid "#"
+msgstr ""
+
+#: include/elements/slider.php:152 include/elements/slider.php:153
+msgid "left"
+msgstr ""
+
+#: include/elements/slider.php:252 include/elements/testmonials.php:319
+msgid "Icon Hover Color"
+msgstr ""
+
+#: include/elements/slider.php:263 include/elements/testmonials.php:330
+msgid "Icon Hover BG Color"
+msgstr ""
+
+#: include/elements/slider.php:400 include/elements/testmonials.php:544
+msgid "Controls"
+msgstr ""
+
+#: include/elements/slider.php:419 include/elements/testmonials.php:563
+msgid "Dots Color"
+msgstr ""
+
+#: include/elements/slider.php:432 include/elements/testmonials.php:576
+#: library/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: include/elements/slider.php:439 include/elements/testmonials.php:583
+msgid "Dots Active Color"
+msgstr ""
+
+#: include/elements/taxonomy-list.php:20
+msgid "Category List"
+msgstr ""
+
+#: include/elements/taxonomy-list.php:47
+msgid "Our Services"
+msgstr ""
+
+#: include/elements/taxonomy-list.php:59
+msgid "Service Category"
+msgstr ""
+
+#: include/elements/taxonomy-list.php:60
+msgid "Portfolio Category"
+msgstr ""
+
+#: include/elements/taxonomy-list.php:61
+msgid "Blog Category"
+msgstr ""
+
+#: include/elements/taxonomy-list.php:69
+msgid "Number of Categories"
+msgstr ""
+
+#: include/elements/taxonomy-list.php:113
+msgid "Category Color Hover"
+msgstr ""
+
+#: include/elements/team-meta.php:20
+msgid "Team Meta"
+msgstr ""
+
+#: include/elements/team-meta.php:47
+msgid "Professional Cleaner"
+msgstr ""
+
+#: include/elements/team-meta.php:55
+msgid "Show Designation"
+msgstr ""
+
+#: include/elements/team-meta.php:79
+msgid "Show Social Icons"
+msgstr ""
+
+#: include/elements/team-meta.php:91
+msgid "Show Phone"
+msgstr ""
+
+#: include/elements/team-meta.php:103
+msgid "Show Address"
+msgstr ""
+
+#: include/elements/team-meta.php:115
+msgid "Show Email"
+msgstr ""
+
+#: include/elements/team-meta.php:224
+msgid "Phone: "
+msgstr ""
+
+#: include/elements/team-meta.php:227
+msgid "Address: "
+msgstr ""
+
+#: include/elements/team-meta.php:230
+msgid "Email: "
+msgstr ""
+
+#: include/elements/team.php:21
+msgid "Team"
+msgstr ""
+
+#: include/elements/team.php:56
+msgid "Mary Ann Ford"
+msgstr ""
+
+#: include/elements/team.php:64 include/elements/team.php:247
+#: include/elements/testmonials.php:379
+msgid "Designation"
+msgstr ""
+
+#: include/elements/team.php:66 include/elements/team.php:76
+msgid "Founder"
+msgstr ""
+
+#: include/elements/team.php:67 include/elements/team.php:77
+#: include/elements/testmonials.php:115
+msgid "Type your designation"
+msgstr ""
+
+#: include/elements/team.php:74 include/elements/team.php:277
+msgid "Email"
+msgstr ""
+
+#: include/elements/team.php:86
+msgid "Social Name"
+msgstr ""
+
+#: include/elements/team.php:96 include/elements/team.php:130
+msgid "Social Icon"
+msgstr ""
+
+#: include/elements/team.php:123
+msgid "Social List"
+msgstr ""
+
+#: include/elements/team.php:255
+msgid "Designation Color"
+msgstr ""
+
+#: include/elements/team.php:285
+msgid "Email Color"
+msgstr ""
+
+#: include/elements/teams.php:20
+msgid "Teams"
+msgstr ""
+
+#: include/elements/teams.php:58
+msgid "Number of Teams"
+msgstr ""
+
+#: include/elements/testmonials.php:21
+msgid "Testmonials"
+msgstr ""
+
+#: include/elements/testmonials.php:64 include/elements/testmonials.php:143
+msgid ""
+"Nunc scelerisque tincidunt elit. Vestibulum non mi ipsum. Cras pretium "
+"suscipit tellus sit amet aliquet. Vestibulum maximus lacinia massa non "
+"porttitor. Pellentesque vehicula est a lorem gravida bibendum."
+msgstr ""
+
+#: include/elements/testmonials.php:72 include/elements/testmonials.php:144
+msgid "Description Icon"
+msgstr ""
+
+#: include/elements/testmonials.php:84 include/elements/testmonials.php:145
+msgid "Author Image"
+msgstr ""
+
+#: include/elements/testmonials.php:94
+msgid "Perfect Cleaning Service"
+msgstr ""
+
+#: include/elements/testmonials.php:102
+msgid "Author Name"
+msgstr ""
+
+#: include/elements/testmonials.php:104 include/elements/testmonials.php:146
+msgid "Chad S. Jones"
+msgstr ""
+
+#: include/elements/testmonials.php:105
+msgid "Type your name here"
+msgstr ""
+
+#: include/elements/testmonials.php:112
+msgid "Author Designation"
+msgstr ""
+
+#: include/elements/testmonials.php:114 include/elements/testmonials.php:147
+msgid "House Owner"
+msgstr ""
+
+#: include/elements/testmonials.php:138
+msgid "Testominials List"
+msgstr ""
+
+#: include/elements/testmonials.php:200
+msgid "Slide Controls"
+msgstr ""
+
+#: include/elements/testmonials.php:208
+msgid "Number of Items"
+msgstr ""
+
+#: include/elements/testmonials.php:220
+msgid "Show Dots"
+msgstr ""
+
+#: include/elements/testmonials.php:232
+msgid "RTL"
+msgstr ""
+
+#: include/elements/testmonials.php:234
+msgid "Yes"
+msgstr ""
+
+#: include/elements/testmonials.php:235
+msgid "No"
+msgstr ""
+
+#: include/elements/title.php:61
+msgid "Discover powerful features to boost your productivity"
+msgstr ""
+
+#: include/elements/title.php:72
+msgid "Type your sub-title here"
+msgstr ""
+
+#: include/elements/title.php:240 include/elements/title.php:271
+msgid "Sub Title Color"
+msgstr ""
+
+#: include/elements/title.php:251 include/elements/title.php:282
+msgid "Sub Title BG Color"
+msgstr ""
+
+#: include/elements/title.php:373
+msgid "description Color"
+msgstr ""
+
+#: include/elements/video-popup.php:21
+msgid "Video Popup"
+msgstr ""
+
+#: include/elements/video-popup.php:61
+msgid "See OLMO in Action"
+msgstr ""
+
+#: include/elements/video-popup.php:79
+msgid "Video Image"
+msgstr ""
+
+#: include/elements/video-popup.php:255
+msgid "Icon Size"
+msgstr ""
+
+#: include/elements/video-popup.php:356
+msgid "video-preview"
+msgstr ""
+
+#: include/functions.php:72
+msgid "Pingback:"
+msgstr ""
+
+#: include/functions.php:84
+msgid " ago"
+msgstr ""
+
+#: include/functions.php:88
+msgid "Reply"
+msgstr ""
+
+#: include/functions.php:93
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: include/functions.php:147 include/functions.php:183
+msgid "on"
+msgstr ""
+
+#: include/functions.php:396
+msgid "Previous Post"
+msgstr ""
+
+#: include/functions.php:410
+msgid "Next Post"
+msgstr ""
+
+#: include/functions.php:465
+msgid "Keep Reading..."
+msgstr ""
+
+#: include/functions.php:569
+msgid "Portfolio"
+msgstr ""
+
+#: include/functions.php:570
+msgid "Project We Have Done Since Recent Month"
+msgstr ""
+
+#: include/woo-functions.php:190
+msgid "-"
+msgstr ""
+
+#: include/woo-functions.php:201
+msgid "NEW"
+msgstr ""
+
+#: index.php:35
+msgid "Latest Articles"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:393
+#: library/class-tgm-plugin-activation.php:912
+#: library/class-tgm-plugin-activation.php:2618
+#: library/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:394
+#: library/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:1019
+#: library/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:1206
+#: library/class-tgm-plugin-activation.php:3033
+msgid "and"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3594
+#: library/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: library/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/tgm-plugins.php:64
+msgid "Jthemes Add-ons"
+msgstr ""
+
+#: library/tgm-plugins.php:77
+msgid "Convert Plus"
+msgstr ""
+
+#: library/tgm-plugins.php:90
+msgid "OptionTree"
+msgstr ""
+
+#: library/tgm-plugins.php:103
+msgid "Elementor"
+msgstr ""
+
+#: library/tgm-plugins.php:110
+msgid "Contact Form 7"
+msgstr ""
+
+#: library/tgm-plugins.php:117
+msgid "Newsletter"
+msgstr ""
+
+#: library/tgm-plugins.php:124
+msgid "One Click Demo Import"
+msgstr ""
+
+#: search.php:23
+msgid "Search Results Articles"
+msgstr ""
+
+#: tag.php:23
+msgid "All Articles for Tag"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:29
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:48
+msgid "Clear Selection"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "Category: "
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:55
+msgid "Awaiting product image"
+msgstr ""

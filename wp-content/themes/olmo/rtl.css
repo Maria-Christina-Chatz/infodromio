@@ -1,0 +1,713 @@
+/*
+Theme Name: olmo
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+It's easy, just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+See: https://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+.site-vote small {
+	right:auto;
+	left: -1px;
+}
+
+html {
+  direction: rtl;
+}
+
+body {
+  direction: rtl;
+}
+
+.flip.text-left {
+  text-align: right;
+}
+
+.flip.text-right {
+  text-align: left;
+}
+
+.list-unstyled {
+  padding-right: 0;
+  padding-left: initial;
+}
+
+.list-inline {
+  padding-right: 0;
+  padding-left: initial;
+  margin-right: -5px;
+  margin-left: 0;
+}
+
+dd {
+  margin-right: 0;
+  margin-left: initial;
+}
+
+@media (min-width: 768px) {
+  .dl-horizontal dt {
+    float: right;
+    clear: right;
+    text-align: left;
+  }
+  .dl-horizontal dd {
+    margin-right: 180px;
+    margin-left: 0;
+  }
+}
+
+blockquote {
+  border-right: 5px solid #eeeeee;
+  border-left: 0;
+}
+
+.blockquote-reverse,
+blockquote.pull-left {
+  padding-left: 15px;
+  padding-right: 0;
+  border-left: 5px solid #eeeeee;
+  border-right: 0;
+  text-align: left;
+}
+
+caption {
+  text-align: right;
+}
+
+th {
+  text-align: right;
+}
+
+@media screen and (max-width: 767px) {
+  .table-responsive > .table-bordered {
+    border: 0;
+  }
+
+  .table-responsive > .table-bordered > thead > tr > th:first-child,
+  .table-responsive > .table-bordered > tbody > tr > th:first-child,
+  .table-responsive > .table-bordered > tfoot > tr > th:first-child,
+  .table-responsive > .table-bordered > thead > tr > td:first-child,
+  .table-responsive > .table-bordered > tbody > tr > td:first-child,
+  .table-responsive > .table-bordered > tfoot > tr > td:first-child {
+    border-right: 0;
+    border-left: initial;
+  }
+
+  .table-responsive > .table-bordered > thead > tr > th:last-child,
+  .table-responsive > .table-bordered > tbody > tr > th:last-child,
+  .table-responsive > .table-bordered > tfoot > tr > th:last-child,
+  .table-responsive > .table-bordered > thead > tr > td:last-child,
+  .table-responsive > .table-bordered > tbody > tr > td:last-child,
+  .table-responsive > .table-bordered > tfoot > tr > td:last-child {
+    border-left: 0;
+    border-right: initial;
+  }
+
+}
+
+.radio label,
+.checkbox label {
+  padding-right: 20px;
+  padding-left: initial;
+}
+
+.radio input[type="radio"],
+.radio-inline input[type="radio"],
+.checkbox input[type="checkbox"],
+.checkbox-inline input[type="checkbox"] {
+  margin-right: -20px;
+  margin-left: auto;
+}
+
+.radio-inline,
+.checkbox-inline {
+  padding-right: 20px;
+  padding-left: 0;
+}
+
+.radio-inline + .radio-inline,
+.checkbox-inline + .checkbox-inline {
+  margin-right: 10px;
+  margin-left: 0;
+}
+
+.has-feedback .form-control {
+  padding-left: 42.5px;
+  padding-right: 12px;
+}
+
+.form-control-feedback {
+  left: 0;
+  right: auto;
+}
+
+@media (min-width: 768px) {
+  .form-inline label {
+    padding-right: 0;
+    padding-left: initial;
+  }
+  .form-inline .radio input[type="radio"],
+  .form-inline .checkbox input[type="checkbox"] {
+    margin-right: 0;
+    margin-left: auto;
+  }
+}
+
+@media (min-width: 768px) {
+  .form-horizontal .control-label {
+    text-align: left;
+  }
+}
+
+.form-horizontal .has-feedback .form-control-feedback {
+  left: 15px;
+  right: auto;
+}
+
+.caret {
+  margin-right: 2px;
+  margin-left: 0;
+}
+
+.dropdown-menu {
+  right: 0;
+  left: auto;
+  float: left;
+  text-align: right;
+}
+
+.dropdown-menu.pull-right {
+  left: 0;
+  right: auto;
+  float: right;
+}
+
+.dropdown-menu-right {
+  left: auto;
+  right: 0;
+}
+
+.dropdown-menu-left {
+  left: 0;
+  right: auto;
+}
+
+@media (min-width: 768px) {
+  .navbar-right .dropdown-menu {
+    left: auto;
+    right: 0;
+  }
+
+  .navbar-right .dropdown-menu-left {
+    left: 0;
+    right: auto;
+  }
+}
+
+.pagination {
+  padding-right: 0;
+}
+
+.pagination > li > a,
+.pagination > li > span {
+  float: right;
+  margin-right: -1px;
+  margin-left: 0px;
+}
+
+.pagination > li:first-child > a,
+.pagination > li:first-child > span {
+  margin-left: 0;
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+}
+
+.pagination > li:last-child > a,
+.pagination > li:last-child > span {
+  margin-right: -1px;
+  border-bottom-left-radius: 4px;
+  border-top-left-radius: 4px;
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.pager {
+  padding-right: 0;
+  padding-left: initial;
+}
+
+.pager .next > a,
+.pager .next > span {
+  float: left;
+}
+
+.pager .previous > a,
+.pager .previous > span {
+  float: right;
+}
+
+.nav-pills > li > a > .badge {
+  margin-left: 0px;
+  margin-right: 3px;
+}
+
+.list-group-item > .badge {
+  float: left;
+}
+
+.list-group-item > .badge + .badge {
+  margin-left: 5px;
+  margin-right: auto;
+}
+
+.alert-dismissable,
+.alert-dismissible {
+  padding-left: 35px;
+  padding-right: 15px;
+}
+
+.alert-dismissable .close,
+.alert-dismissible .close {
+  right: auto;
+  left: -21px;
+}
+
+.progress-bar {
+  float: right;
+}
+
+.media > .pull-left {
+  margin-right: 10px;
+}
+
+.media > .pull-left.flip {
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+.media > .pull-right {
+  margin-left: 10px;
+}
+
+.media > .pull-right.flip {
+  margin-left: 0;
+  margin-right: 10px;
+}
+
+.media-right,
+.media > .pull-right {
+  padding-right: 10px;
+  padding-left: initial;
+}
+
+.media-left,
+.media > .pull-left {
+  padding-left: 10px;
+  padding-right: initial;
+}
+
+.media-list {
+  padding-right: 0;
+  padding-left: initial;
+  list-style: none;
+}
+
+.list-group {
+  padding-right: 0;
+  padding-left: initial;
+}
+
+.embed-responsive .embed-responsive-item,
+.embed-responsive iframe,
+.embed-responsive embed,
+.embed-responsive object {
+  right: 0;
+  left: auto;
+}
+
+.close {
+  float: left;
+}
+
+.pull-right.flip {
+  float: left !important;
+}
+.pull-left.flip {
+  float: right !important;
+}
+
+.search-form .form-group{
+	float: left !important;
+}
+
+.search-form .form-group span.form-control-feedback{
+	left: -2px;
+	right: auto;
+}
+
+.search-form .form-group input.form-control,
+.post-password-form input[type="password"]{
+	padding-right: 20px;
+	padding-left: 0;
+}
+
+.text-end {
+  text-align: left!important;
+}
+
+.bottom-footer-list li:after {
+  padding-left: 0;
+  padding-right: 11px;
+}
+
+.bottom-footer-list li:last-child:after {
+  padding-right: 0;
+}
+
+.bottom-footer-list li {
+  padding-left: 0;
+  padding-right: 10px;
+}
+
+.bottom-thumb img {
+  margin-right: 0;
+  margin-left: 15px;
+}
+
+.single-post-title h3,
+.single-post-title h2 {
+  padding-left: 5%;
+  padding-right: 0;
+}
+
+
+.offset-1 {
+  margin-right: 8.33333333%;
+}
+
+.offset-2 {
+  margin-right: 16.66666667%;
+}
+
+.offset-3 {
+  margin-right: 25%;
+}
+
+.offset-4 {
+  margin-right: 33.33333333%;
+}
+
+.offset-5 {
+  margin-right: 41.66666667%;
+}
+
+.offset-6 {
+  margin-right: 50%;
+}
+
+.offset-7 {
+  margin-right: 58.33333333%;
+}
+
+.offset-8 {
+  margin-right: 66.66666667%;
+}
+
+.offset-9 {
+  margin-right: 75%;
+}
+
+.offset-10 {
+  margin-right: 83.33333333%;
+}
+
+.offset-11 {
+  margin-right: 91.66666667%;
+}
+
+
+.offset-sm-0 {
+  margin-right: 0;
+}
+
+.offset-sm-1 {
+  margin-right: 8.33333333%;
+}
+
+.offset-sm-2 {
+  margin-right: 16.66666667%;
+}
+
+.offset-sm-3 {
+  margin-right: 25%;
+}
+
+.offset-sm-4 {
+  margin-right: 33.33333333%;
+}
+
+.offset-sm-5 {
+  margin-right: 41.66666667%;
+}
+
+.offset-sm-6 {
+  margin-right: 50%;
+}
+
+.offset-sm-7 {
+  margin-right: 58.33333333%;
+}
+
+.offset-sm-8 {
+  margin-right: 66.66666667%;
+}
+
+.offset-sm-9 {
+  margin-right: 75%;
+}
+
+.offset-sm-10 {
+  margin-right: 83.33333333%;
+}
+
+.offset-sm-11 {
+  margin-right: 91.66666667%;
+}
+
+
+.offset-md-0 {
+  margin-right: 0;
+}
+
+.offset-md-1 {
+  margin-right: 8.33333333%;
+}
+
+.offset-md-2 {
+  margin-right: 16.66666667%;
+}
+
+.offset-md-3 {
+  margin-right: 25%;
+}
+
+.offset-md-4 {
+  margin-right: 33.33333333%;
+}
+
+.offset-md-5 {
+  margin-right: 41.66666667%;
+}
+
+.offset-md-6 {
+  margin-right: 50%;
+}
+
+.offset-md-7 {
+  margin-right: 58.33333333%;
+}
+
+.offset-md-8 {
+  margin-right: 66.66666667%;
+}
+
+.offset-md-9 {
+  margin-right: 75%;
+}
+
+.offset-md-10 {
+  margin-right: 83.33333333%;
+}
+
+.offset-md-11 {
+  margin-right: 91.66666667%;
+}
+
+
+.offset-lg-0 {
+  margin-right: 0;
+}
+
+.offset-lg-1 {
+  margin-right: 8.33333333%;
+}
+
+.offset-lg-2 {
+  margin-right: 16.66666667%;
+}
+
+.offset-lg-3 {
+  margin-right: 25%;
+}
+
+.offset-lg-4 {
+  margin-right: 33.33333333%;
+}
+
+.offset-lg-5 {
+  margin-right: 41.66666667%;
+}
+
+.offset-lg-6 {
+  margin-right: 50%;
+}
+
+.offset-lg-7 {
+  margin-right: 58.33333333%;
+}
+
+.offset-lg-8 {
+  margin-right: 66.66666667%;
+}
+
+.offset-lg-9 {
+  margin-right: 75%;
+}
+
+.offset-lg-10 {
+  margin-right: 83.33333333%;
+}
+
+.offset-lg-11 {
+  margin-right: 91.66666667%;
+}
+
+
+.offset-xl-0 {
+  margin-right: 0;
+}
+
+.offset-xl-1 {
+  margin-right: 8.33333333%;
+}
+
+.offset-xl-2 {
+  margin-right: 16.66666667%;
+}
+
+.offset-xl-3 {
+  margin-right: 25%;
+}
+
+.offset-xl-4 {
+  margin-right: 33.33333333%;
+}
+
+.offset-xl-5 {
+  margin-right: 41.66666667%;
+}
+
+.offset-xl-6 {
+  margin-right: 50%;
+}
+
+.offset-xl-7 {
+  margin-right: 58.33333333%;
+}
+
+.offset-xl-8 {
+  margin-right: 66.66666667%;
+}
+
+.offset-xl-9 {
+  margin-right: 75%;
+}
+
+.offset-xl-10 {
+  margin-right: 83.33333333%;
+}
+
+.offset-xl-11 {
+  margin-right: 91.66666667%;
+}
+
+.offset-xxl-0 {
+  margin-right: 0;
+}
+
+.offset-xxl-1 {
+  margin-right: 8.33333333%;
+}
+
+.offset-xxl-2 {
+  margin-right: 16.66666667%;
+}
+
+.offset-xxl-3 {
+  margin-right: 25%;
+}
+
+.offset-xxl-4 {
+  margin-right: 33.33333333%;
+}
+
+.offset-xxl-5 {
+  margin-right: 41.66666667%;
+}
+
+.offset-xxl-6 {
+  margin-right: 50%;
+}
+
+.offset-xxl-7 {
+  margin-right: 58.33333333%;
+}
+
+.offset-xxl-8 {
+  margin-right: 66.66666667%;
+}
+
+.offset-xxl-9 {
+  margin-right: 75%;
+}
+
+.offset-xxl-10 {
+  margin-right: 83.33333333%;
+}
+
+.offset-xxl-11 {
+  margin-right: 91.66666667%;
+}
+
+.wsmenu > .wsmenu-list > li.yamm-fw > .wsmegamenu.link-list > li > a {
+  text-align: right;
+  padding-right: 20px;
+  padding-left: 0;
+}
+
+.wsmenu > .wsmenu-list > li > .wsmegamenu.w-75 ul.link-list > li > a,
+.wsmenu > .wsmenu-list > li > .wsmegamenu.halfmenu ul.link-list > li > a,
+.wsmenu > .wsmenu-list > li.yamm-fw > .wsmegamenu > li a,
+.wsmenu > .wsmenu-list > li.has-submenu > .wsmegamenu > li a {
+  text-align: right;
+}
+
+.single-post .post-author-avatar {
+  float: right;
+}
+
+.single-post .post-author-avatar img {
+  margin: 0 0 0 15px;
+}
+
+.comments-list img {
+  margin-right: 0;
+  margin-left: 30px;
+}
+
+.position-edit-links {
+  left: 0;
+  right: auto;
+}
+
+.media-heading {
+  padding: 0 0 0 130px;
+}

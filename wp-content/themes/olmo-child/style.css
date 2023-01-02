@@ -1,0 +1,32 @@
+/*
+ Theme Name:   Olmo Child
+ Theme URI:    https://jthemes.net/themes/wp/olmo/
+ Description:  Software, App, SaaS & Startup Landing Pages WordPress Theme
+ Author:       Jthemes
+ Author URI:   https://themeforest.net/user/jthemes
+ Template:     olmo
+ Tested up to: 5.8
+ Requires PHP: 7.0
+ Version:      1.0.0
+ License:      GNU General Public License version 3.0
+ License URI:  http://www.gnu.org/licenses/gpl-3.0.html
+ Tags:         custom-background, threaded-comments, custom-menu, featured-images, full-width-template, theme-options, translation-ready
+ Text Domain:  olmo-child
+*/
+
+/* homepage */
+/* clients' logo */
+.logo-greyscale img{
+    filter: grayscale(1);
+}
+/* logo */
+.desktoplogo img {
+    max-height: 55px;
+}
+
+/* menu font-size */
+.wsmenu > .wsmenu-list > li > a {
+    font-size: 21px;
+}
+
+/*css file*/ 
