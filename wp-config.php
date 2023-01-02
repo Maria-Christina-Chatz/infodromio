@@ -65,7 +65,7 @@ define( 'NONCE_SALT',       'a$.+%PhV^h]09A7Ir,m/WCM=R!V~)vokf[%+RNHErV[W_z[Ladw
  * You can have multiple installations in one database if you give each
  * a unique prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix = 'infodromio';
+$table_prefix = 'infodromio_';
 
 /**
  * For developers: WordPress debugging mode.
@@ -83,7 +83,7 @@ define( 'WP_DEBUG', false );
 
 /* Add any custom values between this line and the "stop editing" line. */
 
-
+define('WP_MEMORY_LIMIT', '41M');
 
 /* That's all, stop editing! Happy publishing. */
 

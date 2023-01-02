@@ -781,7 +781,7 @@ class NewsletterEmails extends NewsletterModule {
                 header('X-Robots-Tag: noindex,nofollow,noarchive');
                 header('Cache-Control: no-cache,no-store,private');
 
-                echo $this->replace($email->message, $user, $email);
+                echo apply_filters('newsletter_view_message', $this->replace($email->message, $user, $email));
 
                 die();
                 break;

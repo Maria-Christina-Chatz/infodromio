@@ -10,10 +10,7 @@ $items = [];
 ?>
 <style>
     .title {
-        font-family: <?php echo $title_style->font_family ?>;
-        font-size: <?php echo $title_style->font_size ?>px;
-        font-weight: <?php echo $title_style->font_weight ?>;
-        color: <?php echo $title_style->font_color ?>;
+        <?php $title_style->echo_css()?>
         line-height: 1.3em;
         padding: 15px 0 0 0;
     }
@@ -22,19 +19,13 @@ $items = [];
         padding: 5px 0 0 0;
     }
     .excerpt {
-        font-family: <?php echo $text_style->font_family ?>;
-        font-size: <?php echo $text_style->font_size ?>px;
-        font-weight: <?php echo $text_style->font_weight ?>;
-        color: <?php echo $text_style->font_color ?>;
+        <?php $text_style->echo_css()?>
         line-height: 1.4em;
         text-decoration: none;
     }
 
     .meta {
-        font-family: <?php echo $text_style->font_family ?>;
-        color: <?php echo $text_style->font_color ?>;
-        font-size: <?php echo round($text_style->font_size * 0.9) ?>px;
-        font-weight: <?php echo $text_style->font_weight ?>;
+        <?php $text_style->echo_css(0.9)?>
         padding: 10px 0 0 0;
         font-style: italic;
         line-height: normal !important;
@@ -115,7 +106,7 @@ $items = [];
                     <?php
                     echo TNP_Composer::is_post_field_edited_inline($options['inline_edits'], 'text', $p->ID) ?
                             TNP_Composer::get_edited_inline_post_field($options['inline_edits'], 'text', $p->ID) :
-                            tnp_post_excerpt($p, $excerpt_length)
+                            tnp_post_excerpt($p, $excerpt_length, $excerpt_length_in_chars)
                     ?>
                     </a>
                 </td>
