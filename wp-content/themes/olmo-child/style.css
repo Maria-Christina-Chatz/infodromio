@@ -14,6 +14,13 @@
  Text Domain:  olmo-child
 */
 
+/* font family */
+@font-face {
+    font-family: square_sans;
+    src: url(../../uploads/2022/12/squaresans-medium.ttf);
+    font-weight: normal;
+}
+
 /* homepage */
 /* clients' logo */
 .logo-greyscale img{
@@ -29,4 +36,151 @@
     font-size: 21px;
 }
 
-/*css file*/ 
+body {
+    font-family: 'square_sans', sans-serif;
+    color: #6c757d;
+    line-height: 1.6666;
+    font-weight: 400;
+    font-size: 1.1875rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #2f353e;
+    font-family: 'square_sans', sans-serif;
+    font-weight: 500;
+    letter-spacing: -0.75px;
+}
+
+#menu-main-menu li a {
+    font-family: 'square_sans';
+}
+
+/*footer style*/
+footer#footer-4 {
+    background-color: #333B50;
+    color: #a7b1c2;
+    margin-top: 100px;
+}
+
+footer .first-section p.text-simple {
+    font-weight: 200;
+    letter-spacing: 1px;
+}
+
+footer .first-section p i {
+    padding-right: 5px;
+}
+
+footer .wp-block-tnp-minimal.footer-newsletter input.tnp-email {
+    background: #272E43;
+    border: 2px solid #272E43;
+    color: #a7b1c2;
+    font-size: 16px;
+    position: relative;
+    margin-top: -10px;
+}
+
+footer .wp-block-tnp-minimal.footer-newsletter input.tnp-email::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1; /* Firefox */
+}
+  
+footer .wp-block-tnp-minimal.footer-newsletter input.tnp-email:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: white;
+}
+  
+footer .wp-block-tnp-minimal.footer-newsletter input.tnp-email::-ms-input-placeholder { /* Microsoft Edge */
+    color: white;
+}
+
+footer .wp-block-tnp-minimal.footer-newsletter input[type="submit"] {
+    top: -10px;
+    border: 2px solid #a7b1c2;
+    background-color: #a7b1c2;
+}
+
+footer .wp-block-tnp-minimal.footer-newsletter input[type="submit"]:hover {
+    background-color: #fff;
+    color: #a7b1c2;
+}
+
+footer .footer-newsletter p.sub-text {
+    font-weight: 200;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+footer .footer-newsletter .tnp-subscription-minimal input.tnp-email {
+    width: 88%;
+}
+
+footer .footer-newsletter .tnp-subscription-minimal input.tnp-submit {
+    width: 12%;
+}
+
+footer .second-section .title {
+    font-weight: bold;
+    font-size: 22px;
+    color: #FFFFFF;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    padding-bottom: 10px;
+    display: inline-block;
+}
+
+footer .second-section i {
+    padding-right: 5px;
+}
+
+footer .second-section p a {
+    color: #a7b1c2;
+}
+
+footer .second-section p a:hover {
+    color: #fff;
+}
+
+footer hr.sep-line {
+    background-image: none;
+    border-bottom: 1px solid;
+    width: 58.5%;
+}
+
+footer .second-section p {
+    width: 50%;
+    float: left;
+}
+
+.bottom-footer a {
+    color: #a7b1c2;
+}
+
+.bottom-footer p {
+    color: #a7b1c2;
+}
+
+.bottom-footer a:hover {
+    color: white;
+}
+
+/* contat form */
+.contact-us-form-button input.submit {
+    border-color: #3451a5;
+    color: #fff;
+    background: #3451a5;
+}
+
+.contact-us-form-button input.submit:hover {
+    border-color: #3451a5;
+    color: #3451a5;
+    background: #fff;
+}
+
+span.wpcf7-list-item-label {
+    display: inline-block;
+    padding-left: 10px;
+}

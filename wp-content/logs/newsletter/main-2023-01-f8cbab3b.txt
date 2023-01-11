@@ -1,0 +1,1 @@
+06-01-2023 15:43:17 - ERROR - 7.5.9 - 50.1 MB/512 MB - [cron] > Blocked by transient newsletter_main_engine set 1 seconds ago by C:\xampp\htdocs\infodromio/;maria-christina
